@@ -1,0 +1,501 @@
+label,text
+NUM:dist,Quelle est la distance entre Denver et Aspen?
+LOC:city,"Dans quel comté se trouve Modesto, Californie?"
+HUM:desc,Qui était Galilée?
+DESC:def,Qu&#39;est-ce qu&#39;un atome?
+NUM:date,Quand Hawaii est-il devenu un État?
+NUM:dist,Quelle est la hauteur de l&#39;immeuble Sears?
+HUM:gr,George Bush a acheté un petit intérêt dans quelle équipe de baseball?
+ENTY:plant,Quelle est la fleur nationale de l&#39;Australie?
+DESC:reason,Pourquoi la lune devient orange?
+DESC:def,Qu&#39;est-ce que l&#39;autisme?
+LOC:city,Quelle ville avait une foire mondiale en 1900?
+HUM:ind,Quelle personne a la tête sur un sou?
+NUM:weight,Quel est le poids moyen d&#39;un Labrador jaune?
+HUM:ind,Qui a été le premier homme à survoler l&#39;océan Pacifique?
+NUM:date,Quand l&#39;Idaho est-il devenu un État?
+NUM:other,Quelle est l&#39;espérance de vie des grillons?
+ENTY:substance,Quel métal a le point de fusion le plus élevé?
+HUM:ind,Qui a développé la vaccination contre la polio?
+DESC:def,Qu&#39;est-ce que l&#39;épilepsie?
+NUM:date,En quelle année le Titanic a-t-il coulé?
+HUM:ind,Qui a été le premier Américain à marcher dans l&#39;espace?
+DESC:def,Qu&#39;est-ce qu&#39;une biosphère?
+LOC:other,Quelle rivière aux États-Unis est connue sous le nom de Big Muddy?
+DESC:def,Quel est le trouble bipolaire?
+DESC:def,Qu&#39;est ce que le cholestérol?
+HUM:ind,Qui a développé l&#39;ordinateur Macintosh?
+DESC:def,Qu&#39;est-ce que la caféine?
+LOC:other,Quelle ligne imaginaire se trouve à mi-chemin entre les pôles Nord et Sud?
+LOC:other,Où est l&#39;aéroport John Wayne?
+LOC:other,Dans quel hémisphère se trouvent les Philippines?
+NUM:speed,Quelle est la vitesse moyenne des chevaux au Derby du Kentucky?
+LOC:mount,Où sont les montagnes Rocheuses?
+DESC:def,Que sont les invertébrés?
+NUM:temp,Quelle est la température au centre de la terre?
+NUM:date,Quand John F. Kennedy a-t-il été élu président?
+NUM:period,Quel âge avait Elvis Presley quand il est mort?
+LOC:other,Où est la rivière Orinoco?
+NUM:dist,A quelle distance se trouve la ligne de service du net au tennis?
+NUM:count,Combien de fibres devriez-vous avoir par jour?
+NUM:count,Combien y a-t-il de Grands Lacs?
+ENTY:plant,Un matériau appelé lin est fabriqué à partir de quelle plante?
+DESC:def,Qu&#39;est-ce que le téflon?
+DESC:def,Qu&#39;est-ce que l&#39;amitriptyline?
+DESC:def,Qu&#39;est-ce qu&#39;un chaman?
+ENTY:animal,Quel est le nom approprié pour une femme morse?
+ENTY:animal,Comment appelle-t-on un groupe de dindes?
+NUM:period,Combien de temps Rip Van Winkle a-t-il dormi?
+DESC:def,Que sont les triglycérides?
+NUM:count,Combien de litres dans un gallon?
+HUM:gr,Quel est le nom de la société de chocolat à San Francisco?
+DESC:def,Que sont les amphibiens?
+HUM:ind,Qui a découvert les rayons X?
+HUM:ind,La ligne de signature de quel comédien est «pouvons-nous parler»?
+DESC:def,Qu&#39;est-ce que la fibromyalgie?
+DESC:desc,Que fait-on avec des drapeaux usés ou périmés?
+DESC:def,Que signifie cc dans les moteurs?
+NUM:date,Quand Elvis Presley est-il mort?
+LOC:city,Quelle est la capitale de la Yougoslavie?
+LOC:city,Où est Milan?
+NUM:speed,Quelle est la vitesse de vol des colibris?
+LOC:city,Quelle est la plus vieille ville des États-Unis?
+HUM:ind,Quel était le vrai nom de WC Fields?
+LOC:other,"Quelle rivière coule entre Fargo, Dakota du Nord et Moorhead, Minnesota?"
+ENTY:food,Que mangent les chauves-souris?
+LOC:state,Dans quel état s&#39;est déroulée la bataille de Bighorn?
+HUM:desc,Qui était Abraham Lincoln?
+ENTY:termeq,Comment appelez-vous un kangourou nouveau-né?
+DESC:def,Que sont les varicosités?
+NUM:date,Quel jour et quel mois John Lennon est-il mort?
+LOC:other,Quel détroit sépare l&#39;Amérique du Nord de l&#39;Asie?
+NUM:other,Quelle est la population de Seattle?
+NUM:money,Combien coûtait un ticket pour le Titanic?
+LOC:city,Quelle est la plus grande ville du monde?
+HUM:ind,Quel compositeur américain a écrit la musique de «West Side Story»?
+LOC:other,Où est le centre commercial de l&#39;Amérique?
+DESC:def,Quelle est l&#39;échelle de pH?
+ENTY:currency,Quel type de monnaie est utilisé en Australie?
+NUM:dist,"Quelle est la hauteur de la Gateway Arch à St. Louis, MO?"
+NUM:weight,Combien pèse le cerveau humain adulte féminin?
+HUM:ind,Qui était le premier gouverneur de l&#39;Alaska?
+DESC:def,Qu&#39;est-ce qu&#39;un prisme?
+NUM:date,Quand a eu lieu la première greffe de foie?
+HUM:ind,Qui a été élu président de l&#39;Afrique du Sud en 1994?
+NUM:other,Quelle est la population de la Chine?
+NUM:date,Quand est née Rosa Parks?
+DESC:reason,Pourquoi une coccinelle est-elle utile?
+DESC:def,Qu&#39;est-ce que l&#39;amoxicilline?
+HUM:ind,Qui a été la première femme représentant des États-Unis?
+DESC:def,Que sont les xérophytes?
+LOC:country,De quel pays est originaire Ponce de León?
+ENTY:event,Le département américain du Trésor a d&#39;abord émis du papier-monnaie pour les États-Unis pendant quelle guerre?
+DESC:def,Qu&#39;est-ce que la publication assistée par ordinateur?
+NUM:temp,Quelle est la température de la surface du soleil?
+NUM:date,En quelle année le Canada s&#39;est-il joint aux Nations Unies?
+HUM:gr,Quelle est la plus ancienne université des États-Unis?
+LOC:other,Où est l&#39;Île-du-Prince-Édouard?
+NUM:date,"Mercure, en quelle année a-t-il été découvert?"
+DESC:def,Qu&#39;est-ce que la cryogénie?
+DESC:def,Que sont les récifs coralliens?
+ENTY:other,Quelle est la plus longue série de victoires en Ligue majeure de baseball?
+DESC:def,Qu&#39;est ce que la neurologie?
+HUM:ind,Qui a inventé la calculatrice?
+DESC:manner,Comment mesurez-vous les tremblements de terre?
+HUM:desc,Qui est Duke Ellington?
+LOC:city,"Dans quel comté se trouve Phoenix, AZ?"
+DESC:def,Qu&#39;est-ce qu&#39;un micron?
+NUM:temp,"Le noyau du soleil, quelle est la température?"
+ENTY:animal,Quel est l&#39;oiseau d&#39;état de l&#39;Ohio?
+NUM:date,Quand sont nés les jumeaux de William Shakespeare?
+LOC:other,Quel est le plus haut barrage aux États-Unis?
+ENTY:color,De quelle couleur est une grenouille flèche de poison?
+DESC:def,Qu&#39;est-ce que l&#39;acupuncture?
+NUM:dist,Quelle est la longueur de la côte de l&#39;état de l&#39;Alaska?
+HUM:ind,Quel est le nom de la femme de Neil Armstrong?
+ENTY:plant,Quelle est la fleur d’état d’Hawaï?
+HUM:ind,Qui a gagné Mme American en 1989?
+NUM:date,Quand est-ce que Hindenberg s&#39;est écrasé?
+ENTY:substance,Quel minéral aide à prévenir l&#39;ostéoporose?
+NUM:date,Quelle est la dernière année où les Cubs de Chicago ont remporté la Série mondiale?
+LOC:other,Où est Perth?
+NUM:date,En quelle année la Seconde Guerre mondiale a-t-elle commencé?
+NUM:dist,Quel est le diamètre d&#39;une balle de golf?
+DESC:def,Qu&#39;est-ce qu&#39;une éclipse?
+HUM:ind,Qui a découvert l&#39;Amérique ?
+NUM:dist,Quel est le diamètre de la terre?
+HUM:ind,Quel président était célibataire?
+NUM:dist,Quelle est la largeur de la galaxie de la Voie Lactée?
+NUM:date,À quelle saison surviennent la plupart des orages?
+DESC:def,Qu&#39;est-ce que Wimbledon?
+NUM:period,Quelle est la période de gestation pour un chat?
+NUM:dist,À quelle distance se trouve un mille marin?
+HUM:ind,Qui était l&#39;abolitionniste qui a dirigé le raid sur Harper&#39;s Ferry en 1859?
+DESC:def,Qu&#39;est-ce que la fréquence cardiaque cible signifie?
+ENTY:product,Quel a été le premier satellite à aller dans l&#39;espace?
+DESC:def,Qu&#39;est-ce que la forclusion?
+ENTY:other,Quelle est la principale ligne de faille près du Kentucky?
+LOC:other,Où est le tunnel de Hollande?
+HUM:ind,Qui a écrit l&#39;hymne `` Amazing Grace &#39;&#39;?
+HUM:title,Quelle position Willie Davis a-t-il occupée au baseball?
+DESC:def,Que sont les plaquettes?
+DESC:def,Qu&#39;est-ce que l&#39;indemnité de départ?
+ENTY:animal,Quel est le nom du chien de Roy Roger?
+LOC:other,Où sont les archives nationales?
+ENTY:animal,Comment s&#39;appelle un bébé dinde?
+DESC:def,Qu&#39;est-ce que la poliomyélite?
+ENTY:body,Quel est l&#39;os le plus long du corps humain?
+HUM:ind,Qui est un philosophe allemand?
+ENTY:veh,Quels étaient les trois navires de Christophe Colomb?
+DESC:def,Qu&#39;est-ce que Phi Beta Kappa signifie?
+DESC:def,Qu&#39;est-ce que la nicotine?
+ENTY:termeq,Quel est un autre nom pour la vitamine B1?
+HUM:ind,Qui a découvert le radium?
+DESC:def,Que sont les taches solaires?
+NUM:date,Quand l&#39;Algérie a-t-elle été colonisée?
+HUM:gr,Quelle équipe de baseball a été la première à intégrer les chiffres à son uniforme?
+LOC:other,Sur quel continent se trouve l&#39;Egypte?
+LOC:city,Quelle est la capitale de la Mongolie?
+DESC:def,Qu&#39;est-ce que la nanotechnologie?
+LOC:other,"À la fin des années 1700, les condamnés britanniques étaient utilisés pour peupler quelle colonie?"
+LOC:state,Quel est le centre géographique des 48 États inférieurs?
+DESC:def,Qu&#39;est-ce qu&#39;un angle obtus?
+DESC:def,Que sont les polymères?
+NUM:date,Quand est la saison des ouragans dans les Caraïbes?
+LOC:other,Où est le volcan Mauna Loa?
+ENTY:termeq,Quel est un autre terme astronomique pour les aurores boréales?
+LOC:other,De quelle péninsule l&#39;Espagne fait-elle partie?
+NUM:date,Quand est né Lyndon B. Johnson?
+DESC:def,Qu&#39;est-ce que l&#39;acétaminophène?
+LOC:state,Quel état a le moins de pluie par an?
+HUM:ind,Qui a fondé la Croix-Rouge américaine?
+NUM:date,En quelle année les Braves de Milwaukee sont-ils devenus les Atlanta Braves?
+NUM:speed,À quelle vitesse l&#39;alcool est-il absorbé?
+NUM:date,Quand est le solstice d&#39;été?
+DESC:def,Qu&#39;est-ce que la supernova?
+LOC:other,Où se trouve la forêt nationale Shawnee?
+LOC:state,La devise de quel État américain est «Live free or Die»?
+LOC:other,Où est la Lourve?
+NUM:date,Quand le premier timbre a-t-il été émis?
+ENTY:color,Quelles couleurs primaires mélangez-vous pour faire de l&#39;orange?
+NUM:dist,À quelle distance se trouve Pluton du soleil?
+LOC:other,Dans quelle étendue d&#39;eau se trouvent les îles Canaries?
+DESC:def,Qu&#39;est-ce que la neuropathie?
+LOC:other,Où se trouve l&#39;Euphrate?
+DESC:def,Qu&#39;est-ce que la cryptographie?
+ENTY:substance,De quoi est composé le gaz naturel?
+HUM:ind,Qui est le premier ministre du Canada?
+HUM:ind,Quel souverain français a été vaincu à la bataille de Waterloo?
+DESC:def,Qu&#39;est-ce que la leucémie?
+LOC:other,Où est-ce que Howard Hughes est mort?
+ENTY:substance,Quelle est la pierre de naissance pour juin?
+ENTY:other,Quelle est la taxe de vente au Minnesota?
+NUM:dist,Quelle est la distance en miles de la terre au soleil?
+NUM:period,Quelle est la durée de vie moyenne d&#39;un poulet?
+NUM:date,Quand le premier magasin Wal-Mart a-t-il été ouvert?
+DESC:def,Qu&#39;est-ce que l&#39;humidité relative?
+LOC:city,Quelle ville a le code postal de 35824?
+ENTY:currency,Quelle monnaie est utilisée en Algérie?
+HUM:ind,Qui a inventé le hula hoop?
+ENTY:product,Quel était le jouet le plus populaire en 1957?
+ENTY:substance,De quoi est fait le pastrami?
+ENTY:product,Quel est le nom du satellite que l&#39;Union soviétique a envoyé dans l&#39;espace en 1957?
+LOC:city,Le journal de quelle ville s&#39;appelle &quot;The Enquirer&quot;?
+HUM:ind,Qui a inventé le slinky?
+ENTY:animal,Comment appelle-t-on les animaux qui n&#39;ont pas de colonne vertébrale?
+NUM:other,Quel est le point de fusion du cuivre?
+LOC:other,Où se trouve le volcan Olympus Mons?
+HUM:ind,Qui était le 23ème président des États-Unis?
+NUM:temp,Quelle est la température corporelle moyenne?
+DESC:desc,Que fait un défibrillateur?
+DESC:desc,Quel est l&#39;effet des pluies acides?
+NUM:date,En quelle année les États-Unis ont-ils aboli le projet?
+NUM:speed,Quelle est la vitesse de la lumière?
+LOC:state,Dans quelle province se trouve Montréal?
+LOC:other,Quelle structure de la ville de New York est également connue sous le nom de tours jumelles?
+DESC:def,Qu&#39;est-ce qu&#39;un champignon?
+ENTY:lang,Quelle est la langue la plus parlée aux Pays-Bas?
+DESC:def,Qu&#39;est-ce que le chlorure de sodium?
+ENTY:termeq,Comment s&#39;appellent les taches sur les dominos?
+NUM:count,Combien de livres par tonne?
+DESC:def,Qu&#39;est-ce que la grippe?
+DESC:def,Qu&#39;est-ce que l&#39;appauvrissement de la couche d&#39;ozone?
+NUM:date,En quelle année fut peinte la Mona Lisa?
+DESC:def,Que veut dire &quot;Shiva assis&quot;?
+ENTY:other,"Quelle est la production électrique à Madrid, en Espagne?"
+LOC:mount,Quelle chaîne de montagnes en Amérique du Nord s&#39;étend du Maine à la Géorgie?
+ENTY:substance,De quoi est fait le plastique?
+NUM:other,Quelle est la population du Nigeria?
+DESC:desc,Que fait ta rate?
+LOC:other,Où est le Grand Canyon?
+HUM:ind,Qui a inventé le téléphone ?
+NUM:date,En quelle année les États-Unis ont-ils acheté l&#39;Alaska?
+HUM:ind,Quel est le nom du chef de file de l&#39;Irlande?
+DESC:def,Qu&#39;est-ce que la phénylalanine?
+NUM:count,Combien de litres d&#39;eau y a-t-il dans un pied cube?
+ENTY:other,Quelles sont les deux chambres du pouvoir législatif?
+DESC:def,Qu&#39;est-ce qu&#39;un sonar?
+LOC:other,"En Pologne, où vivent la plupart des gens?"
+DESC:def,Qu&#39;est-ce que le phosphore?
+LOC:other,Quel est l&#39;emplacement de la mer de tranquillité?
+NUM:speed,À quelle vitesse est le son?
+LOC:state,Dans quelle province française le cognac est-il produit?
+DESC:def,Quelle est la Saint Valentin?
+DESC:reason,Qu&#39;est-ce qui cause les cheveux gris?
+DESC:def,Qu&#39;est-ce que l&#39;hypertension?
+DESC:def,Quelle est la bande passante?
+LOC:other,Quel est le plus long pont suspendu aux États-Unis?
+DESC:def,Qu&#39;est-ce qu&#39;un parasite?
+DESC:def,Qu&#39;est-ce que l&#39;équité à la maison?
+DESC:desc,Que font les météorologues?
+ENTY:other,Quel est le critère pour être légalement aveugle?
+HUM:ind,Qui est l&#39;homme le plus grand du monde?
+LOC:city,Quelles sont les villes jumelles?
+ENTY:other,Qu&#39;est-ce qu&#39;Edward Binney et Howard Smith ont inventé en 1903?
+ENTY:substance,De quoi est faite la statue de la liberté?
+DESC:def,Qu&#39;est ce que le Pilates?
+LOC:other,Quelle planète est connue sous le nom de planète &quot;rouge&quot;?
+NUM:dist,Quelle est la profondeur du Nil?
+ENTY:termeq,Comment s&#39;appelle la robe traditionnelle coréenne colorée?
+DESC:def,Qu&#39;est-ce que le mardi gras?
+NUM:money,Les pesos mexicains valent quoi en dollars américains?
+HUM:ind,Qui a été le premier Afro-américain à jouer pour les Dodgers de Brooklyn?
+HUM:ind,Qui était le premier premier ministre du Canada?
+NUM:count,Combien y a-t-il d&#39;amiraux dans la marine américaine?
+ENTY:instru,Quel instrument Glenn Miller a-t-il joué?
+NUM:period,Quel âge avait Jeanne d&#39;Arc à sa mort?
+DESC:def,Que signifie le mot quinzaine?
+DESC:def,Qu&#39;est ce que la Dianétique?
+LOC:city,Quelle est la capitale de l&#39;Ethiopie?
+NUM:period,Pendant combien de temps un éléphant est-il enceinte?
+DESC:manner,Comment Janice Joplin est-elle morte?
+ENTY:lang,Quelle est la langue principale en Islande?
+DESC:desc,Quelle est la différence entre les stations de radio AM et les stations de radio FM?
+DESC:def,Qu&#39;est-ce que l&#39;ostéoporose?
+HUM:ind,Qui a été la première femme gouverneur aux États-Unis?
+DESC:def,Qu&#39;est-ce que le peyotl?
+DESC:reason,À quoi sert l&#39;œsophage?
+DESC:def,Quelle est la viscosité?
+NUM:date,En quelle année l&#39;Oklahoma est-il devenu un État?
+ABBR:abb,Quelle est l&#39;abréviation de Texas?
+ENTY:substance,De quoi est fait un miroir?
+LOC:other,Où sur le corps porte-t-on un mortier?
+HUM:ind,Comment s&#39;appelait la femme de JFK?
+ABBR:exp,Que signifie IV?
+DESC:def,Qu&#39;est-ce que le chunnel?
+LOC:other,Où est enterré Hitler?
+DESC:def,Que sont les antiacides?
+DESC:def,Qu&#39;est-ce que la fibrose pulmonaire?
+DESC:def,Que sont les Quaaludes?
+DESC:def,Qu&#39;est-ce que le naproxen?
+DESC:def,Qu&#39;est-ce que l&#39;angine streptococcique?
+LOC:city,Quelle est la plus grande ville des États-Unis?
+ENTY:dismed,Qu&#39;est-ce que la fièvre aphteuse?
+NUM:other,Quelle est l&#39;espérance de vie d&#39;un billet d&#39;un dollar?
+ENTY:termeq,Comment appelez-vous un dessin de carte professionnel?
+DESC:def,Que sont les aborigènes?
+DESC:def,Qu&#39;est-ce que l&#39;hybridation?
+ENTY:color,De quelle couleur est l&#39;indigo?
+NUM:period,Quel âge devez-vous avoir pour louer une voiture en Italie?
+ENTY:other,Que mesure un baromètre?
+ENTY:color,De quelle couleur est la langue d&#39;une girafe?
+ABBR:exp,Que signifie USPS?
+NUM:date,En quelle année la NFL s&#39;est-elle mise en grève?
+DESC:def,Qu&#39;est-ce que le vent solaire?
+NUM:date,À quelle date Neil Armstrong at-il atterri sur la lune?
+NUM:date,Quand Hiroshima a-t-il été bombardé?
+LOC:other,Où est la rivière Savannah?
+HUM:ind,Qui a été la première femme tuée dans la guerre du Vietnam?
+LOC:other,Quelle planète possède le champ magnétique le plus puissant de toutes les planètes?
+HUM:ind,Qui est le gouverneur de l&#39;Alaska?
+NUM:date,En quelle année Mussolini a-t-il pris le pouvoir en Italie?
+LOC:city,Quelle est la capitale de la Perse?
+LOC:other,Où est la tour Eiffel ?
+NUM:count,Combien de coeurs a une pieuvre?
+DESC:def,Quelle est la pneumonie?
+LOC:other,Quel est le lac le plus profond des États-Unis?
+DESC:def,Qu&#39;est-ce qu&#39;une pile à combustible?
+HUM:ind,Qui a été le premier président américain à apparaître à la télévision?
+LOC:other,Où est le musée de la petite ligue?
+ENTY:other,Quels sont les deux types de jumeaux?
+LOC:other,Quelle est l&#39;étoile la plus brillante?
+DESC:def,Qu&#39;est-ce que le diabète?
+NUM:date,Quand le président Kennedy at-il été abattu?
+ABBR:exp,Qu&#39;est-ce que TMJ?
+ENTY:color,De quelle couleur est le lait de yak?
+NUM:date,À quelle date est né Dwight D. Eisenhower?
+ABBR:exp,Que signifie le terme technique RNIS?
+DESC:reason,Pourquoi le soleil est jaune?
+NUM:money,Quel est le taux de conversion entre dollars et livres?
+NUM:date,Quand Abraham Lincoln est-il né?
+DESC:def,Quelle est la voie lactée?
+DESC:def,Qu&#39;est-ce que la moisissure?
+NUM:date,En quelle année est né Mozart?
+ENTY:animal,Comment appelle-t-on un groupe de grenouilles?
+ENTY:veh,Quel est le nom du navire de William Penn?
+NUM:other,Quel est le point de fusion de l&#39;or?
+LOC:other,Quelle est l&#39;adresse de la Maison Blanche?
+DESC:def,Qu&#39;est-ce que la semoule?
+ENTY:food,De quel fruit est faite la sauce Melba?
+DESC:def,Qu&#39;est-ce que Ursa Major?
+NUM:perc,Quel est le pourcentage de teneur en eau dans le corps humain?
+NUM:weight,Combien pèse l&#39;eau?
+ENTY:event,Comment s&#39;appelle le programme de réforme du président Lyndon Johnson?
+NUM:perc,"Quel est le taux de meurtre à Windsor, en Ontario?"
+HUM:ind,Qui est le seul président à remplir 2 mandats non consécutifs?
+NUM:other,Quelle est la population de l&#39;Australie?
+HUM:ind,Qui a peint le plafond de la chapelle Sixtine?
+ENTY:dismed,Nommez un stimulant.
+DESC:desc,Quel est l&#39;effet des volcans sur le climat?
+NUM:date,En quelle année a commencé le spectacle Andy Griffith?
+DESC:def,Qu&#39;est-ce que les pluies acides?
+NUM:date,Quelle est la date de l&#39;indépendance du Mexique?
+LOC:other,Quel est l&#39;emplacement du lac Champlain?
+ENTY:plant,Quelle est la fleur d&#39;état de l&#39;Illinois?
+ENTY:animal,Quel est l&#39;oiseau d&#39;état du Maryland?
+DESC:def,Qu&#39;est ce que le vif argent?
+HUM:ind,Qui a écrit &quot;La Divine Comédie&quot;?
+NUM:speed,Quelle est la vitesse de la lumière?
+NUM:dist,Quelle est la largeur d&#39;un terrain de football?
+DESC:reason,"Pourquoi, au tennis, zéro point s&#39;appelle-t-il l&#39;amour?"
+ENTY:animal,Quel genre de chien était Toto dans le magicien d&#39;Oz?
+DESC:def,Qu&#39;est-ce qu&#39;une thyroïde?
+DESC:def,Que signifie ciao?
+ENTY:body,Quelle est la seule artère qui transporte le sang bleu du cœur vers les poumons?
+NUM:other,À quelle fréquence Old Faithful fait-il irruption au parc national de Yellowstone?
+DESC:def,Qu&#39;est-ce que l&#39;acide acétique?
+NUM:dist,"Quelle est l&#39;altitude de St. Louis, MO?"
+ENTY:color,Quelle couleur le papier de tournesol prend-il lorsqu&#39;il entre en contact avec un acide fort?
+ENTY:color,Quelles sont les couleurs du drapeau allemand?
+DESC:def,Qu&#39;est ce que le Moulin Rouge?
+LOC:other,Quel port soviétique se trouve sur la mer Noire?
+NUM:weight,Quel est le poids atomique de l&#39;argent?
+ENTY:currency,Quelle monnaie utilisent-ils au Brésil?
+DESC:def,Quels sont les agents pathogènes?
+DESC:def,Qu&#39;est-ce que la maladie de la vache folle?
+ENTY:food,Nommez un aliment riche en zinc.
+NUM:date,Quand la Caroline du Nord est-elle entrée dans le syndicat?
+LOC:other,Où vivent les escargots de pomme?
+DESC:def,Qu&#39;est-ce que l&#39;éthique?
+ABBR:exp,Que signifie la RCP?
+DESC:def,Qu&#39;est-ce qu&#39;une rente?
+HUM:ind,Qui a tué John F. Kennedy?
+HUM:ind,Qui était le premier vice-président des États-Unis?
+ENTY:substance,Quelle pierre de naissance est turquoise?
+HUM:ind,Qui a été le premier président américain à monter dans une voiture pour son inauguration?
+NUM:period,Quel âge avait le plus jeune président des États-Unis?
+NUM:date,Ulysses S. Grant est né quand?
+DESC:def,Qu&#39;est-ce que la dystrophie musculaire?
+HUM:ind,Qui habitait le château de Neuschwanstein?
+DESC:def,Qu&#39;est-ce que le propylène glycol?
+DESC:def,Qu&#39;est-ce qu&#39;un trouble panique?
+HUM:ind,Qui a inventé l&#39;appareil photo instantané Polaroid?
+DESC:def,Qu&#39;est-ce qu&#39;un cancérigène?
+ENTY:animal,Comment s&#39;appelle un bébé lion?
+NUM:other,Quelle est la population du monde?
+DESC:def,Qu&#39;est-ce que le népotisme?
+DESC:def,Qu&#39;est-ce que le casting?
+DESC:def,Qu&#39;est-ce que la myopie?
+NUM:other,Quel est le taux de la taxe de vente à New York?
+NUM:perc,Les pays en développement représentent quel pourcentage de la population mondiale?
+LOC:mount,Quelle est la quatrième plus haute montagne du monde?
+HUM:ind,Quel est le surnom de Shakespeare?
+ENTY:substance,Quel est l&#39;élément naturel le plus lourd?
+NUM:date,Quand est la fête des pères?
+ABBR:exp,Que signifie l&#39;acronyme NASA?
+NUM:dist,Combien de temps dure le fleuve Columbia en miles?
+LOC:city,Le journal de quelle ville s&#39;appelle `` The Star &#39;&#39;?
+DESC:def,Qu&#39;est-ce que le dioxyde de carbone?
+LOC:other,Où est la ligne Mason / Dixon?
+NUM:date,Quand était la tea party de Boston?
+DESC:def,Quel est le métabolisme?
+HUM:ind,Quel président américain est apparu dans &quot;Laugh-In&quot;?
+ENTY:substance,De quoi sont faites les cigarettes?
+LOC:city,Quelle est la capitale du Zimbabwe?
+ABBR:exp,Que signifie la NASA?
+ENTY:plant,Quelle est la fleur d&#39;état du Michigan?
+DESC:def,Que sont les semi-conducteurs?
+DESC:def,Qu&#39;est-ce que le nucléaire?
+DESC:def,Qu&#39;est-ce qu&#39;un tsunami?
+HUM:ind,Qui est le membre du Congrès de l&#39;État du Texas au sein du comité des forces armées?
+HUM:ind,Qui était président en 1913?
+NUM:date,Quand a eu lieu la première greffe de rein?
+LOC:other,Quels sont les deux territoires du Canada?
+ENTY:veh,Comment s&#39;appelait l&#39;avion Lindbergh qui avait traversé l&#39;Atlantique à bord d&#39;un avion solo?
+DESC:def,Qu&#39;est-ce qu&#39;un génocide?
+LOC:other,Sur quel continent se trouve l&#39;Argentine?
+ENTY:other,Quel monastère a été attaqué par les Vikings à la fin du VIIIe siècle?
+DESC:def,Qu&#39;est-ce qu&#39;un tremblement de terre?
+LOC:other,Où se trouve le plus grand roller coaster?
+DESC:def,Que sont les enzymes?
+HUM:ind,Qui a découvert l&#39;oxygène?
+DESC:def,Qu&#39;est-ce que Bangers and Mash?
+ENTY:animal,Quel est le nom donné au tigre à la Louisiana State University?
+LOC:other,Où sont conservés les joyaux de la couronne britannique?
+HUM:ind,Qui a été la première personne à atteindre le pôle Nord?
+DESC:def,Qu&#39;est-ce qu&#39;un ulcère?
+DESC:def,Qu&#39;est-ce que le vertige?
+DESC:def,Quel est le test spiromètre?
+NUM:date,Quand est le premier jour officiel de l&#39;été?
+ABBR:exp,Que signifie l&#39;abréviation SOS?
+ENTY:animal,Quel est le plus petit oiseau en Grande-Bretagne?
+HUM:ind,Qui a inventé Trivial Pursuit?
+ENTY:substance,Quels gaz sont dans la troposphère?
+LOC:country,Quel pays a le plus de pollution de l&#39;eau?
+ENTY:animal,Quel est le nom scientifique de l&#39;éléphant?
+HUM:ind,Qui est l&#39;actrice connue pour son rôle dans le film &quot;Gypsy&quot;?
+ENTY:animal,Quelle race de chien de chasse les Beverly Hillbillies possédaient-ils?
+LOC:other,Quel est l&#39;endroit le plus pluvieux sur Terre?
+HUM:ind,Qui a été le premier Afro-Américain à remporter le prix Nobel de littérature?
+NUM:date,Quand est la Saint Patrick?
+ENTY:animal,Comment s&#39;appelait le chien de FDR?
+ENTY:color,Quelles couleurs doivent être mélangées pour obtenir la couleur rose?
+ENTY:sport,Quel est le sport le plus populaire au Japon?
+ENTY:food,Quel est l&#39;ingrédient actif dans le bicarbonate de soude?
+NUM:date,Quand est né Thomas Jefferson?
+NUM:temp,À quel point un réfrigérateur devrait-il être froid?
+NUM:date,Quand le téléphone a-t-il été inventé?
+ENTY:color,Quelle est la couleur des yeux la plus commune?
+LOC:other,Où était le premier terrain de golf aux États-Unis?
+DESC:def,Qu&#39;est-ce que la schizophrénie?
+DESC:def,Qu&#39;est-ce que l&#39;angiotensine?
+HUM:gr,Qu&#39;est-ce que Jesse Jackson a organisé?
+ENTY:animal,Quel est l&#39;oiseau d&#39;état de New York?
+LOC:other,Qu&#39;est-ce que le parc national de l&#39;Utah?
+NUM:date,Quel est l&#39;anniversaire de Susan B. Anthony?
+LOC:state,Dans quel état trouveriez-vous les montagnes Catskill?
+ENTY:termeq,Comment appelez-vous un mot qui est orthographié de la même manière en arrière?
+DESC:def,Que sont les pédiatres?
+HUM:gr,"Quel magasin a son siège à Bentonville, Arkansas?"
+DESC:def,Que sont les cellules solaires?
+DESC:def,Qu&#39;est-ce que l&#39;intérêt composé?
+DESC:def,Que sont les câpres?
+DESC:def,Qu&#39;est-ce qu&#39;un antigène?
+ENTY:currency,Quelle monnaie utilise le Luxembourg?
+NUM:other,Quelle est la population du Venezuela?
+ENTY:other,Quel type de polymère est utilisé pour les gilets pare-balles?
+ENTY:currency,Quelle monnaie utilise l&#39;Argentine?
+DESC:def,Qu&#39;est-ce qu&#39;un thermomètre?
+LOC:city,Quelle ville canadienne a la plus grande population?
+ENTY:color,De quelle couleur sont les grillons?
+LOC:country,Quel pays a donné à New York la Statue de la Liberté?
+ENTY:product,Quel était le nom du premier satellite américain envoyé dans l&#39;espace?
+ENTY:substance,Quelle pierre précieuse est une forme de carbone pur?
+ENTY:substance,Quel type de gaz contient une ampoule fluorescente?
+DESC:def,Qu&#39;est-ce que la polyarthrite rhumatoïde?
+LOC:other,"Quelle rivière traverse Rowe, en Italie?"
+DESC:def,Qu&#39;est-ce que la paralysie cérébrale?
+LOC:city,Quelle ville est également connue sous le nom de `` La porte de l&#39;Ouest &#39;&#39;?
+NUM:dist,A quelle distance se trouve la lune?
+ENTY:other,Quelle est la source de gaz naturel?
+ENTY:veh,Dans quel vaisseau spatial l&#39;astronaute américain Alan Shepard a-t-il effectué son vol historique en 1961?
+DESC:def,Quelle est la pectine?
+DESC:def,Qu&#39;est-ce que la biodiversité?
+ENTY:techmeth,Quel est le moyen le plus simple d&#39;enlever le papier peint?
+NUM:date,En quelle année le Titanic a-t-il commencé son voyage?
+NUM:count,Combien de pomme est de l&#39;eau?
+HUM:ind,Qui était le 22ème président des États-Unis?
+ENTY:currency,Quel est l&#39;argent qu&#39;ils utilisent en Zambie?
+NUM:count,Combien de pieds dans un mile?
+ENTY:substance,Quelle est la pierre de naissance d&#39;Octobre?
+DESC:def,Qu&#39;est-ce que e-coli?

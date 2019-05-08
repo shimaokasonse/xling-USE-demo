@@ -1,0 +1,18 @@
+train accuracy {'accuracy': 0.9473588, 'average_loss': 0.1569996, 'loss': 19.90609, 'global_step': 330}
+test accuracy dataset/coarse/test/test_fr.csv: {'accuracy': 0.842, 'average_loss': 0.40454778, 'loss': 50.568474, 'global_step': 330}
+test accuracy dataset/coarse/test/test_ja.csv: {'accuracy': 0.882, 'average_loss': 0.3874219, 'loss': 48.42774, 'global_step': 330}
+test accuracy dataset/coarse/test/test_es.csv: {'accuracy': 0.904, 'average_loss': 0.283884, 'loss': 35.4855, 'global_step': 330}
+test accuracy dataset/coarse/test/test_ko.csv: {'accuracy': 0.834, 'average_loss': 0.61500555, 'loss': 76.875694, 'global_step': 330}
+test accuracy dataset/coarse/test/test_de.csv: {'accuracy': 0.876, 'average_loss': 0.36878005, 'loss': 46.097507, 'global_step': 330}
+test accuracy dataset/coarse/test/test_zh-CN.csv: {'accuracy': 0.894, 'average_loss': 0.37559876, 'loss': 46.949844, 'global_step': 330}
+test accuracy dataset/coarse/test/test_it.csv: {'accuracy': 0.852, 'average_loss': 0.44287527, 'loss': 55.35941, 'global_step': 330}
+test accuracy dataset/coarse/test/test.csv: {'accuracy': 0.902, 'average_loss': 0.21997403, 'loss': 27.496754, 'global_step': 330}
+train accuracy {'accuracy': 0.81969917, 'average_loss': 0.6413022, 'loss': 81.31116, 'global_step': 330}
+test accuracy dataset/fine-grained/test/test_fr.csv: {'accuracy': 0.7, 'average_loss': 1.1213733, 'loss': 140.17166, 'global_step': 330}
+test accuracy dataset/fine-grained/test/test_ja.csv: {'accuracy': 0.714, 'average_loss': 1.0669647, 'loss': 133.37059, 'global_step': 330}
+test accuracy dataset/fine-grained/test/test_es.csv: {'accuracy': 0.732, 'average_loss': 0.90409046, 'loss': 113.01131, 'global_step': 330}
+test accuracy dataset/fine-grained/test/test_ko.csv: {'accuracy': 0.668, 'average_loss': 1.2606045, 'loss': 157.57556, 'global_step': 330}
+test accuracy dataset/fine-grained/test/test_de.csv: {'accuracy': 0.742, 'average_loss': 0.96510315, 'loss': 120.63789, 'global_step': 330}
+test accuracy dataset/fine-grained/test/test_zh-CN.csv: {'accuracy': 0.732, 'average_loss': 1.0339497, 'loss': 129.24371, 'global_step': 330}
+test accuracy dataset/fine-grained/test/test_it.csv: {'accuracy': 0.694, 'average_loss': 1.2026999, 'loss': 150.3375, 'global_step': 330}
+test accuracy dataset/fine-grained/test/test.csv: {'accuracy': 0.75, 'average_loss': 0.84406054, 'loss': 105.50757, 'global_step': 330}

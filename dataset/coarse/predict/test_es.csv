@@ -1,0 +1,501 @@
+label,predicted,text
+NUM,NUM,¿Qué distancia hay entre Denver y Aspen?
+LOC,LOC,"¿En qué condado se encuentra Modesto, California?"
+HUM,HUM,¿Quién fue galileo?
+DESC,DESC,¿Qué es un átomo?
+NUM,NUM,¿Cuándo se convirtió Hawaii en un estado?
+NUM,NUM,¿Qué altura tiene el edificio Sears?
+HUM,HUM,George Bush compró un pequeño interés en qué equipo de béisbol?
+ENTY,ENTY,¿Cuál es la flor nacional de Australia?
+DESC,DESC,¿Por qué la luna se vuelve naranja?
+DESC,DESC,¿Qué es el autismo?
+LOC,LOC,¿Qué ciudad tuvo una feria mundial en 1900?
+HUM,ENTY,¿Qué cabeza de persona está en un centavo?
+NUM,NUM,¿Cuál es el peso promedio de un labrador amarillo?
+HUM,HUM,¿Quién fue el primer hombre en volar a través del Océano Pacífico?
+NUM,NUM,¿Cuándo se convirtió Idaho en un estado?
+NUM,DESC,¿Cuál es la esperanza de vida de los grillos?
+ENTY,ENTY,¿Qué metal tiene el punto de fusión más alto?
+HUM,HUM,¿Quién desarrolló la vacunación contra la polio?
+DESC,DESC,¿Qué es la epilepsia?
+NUM,NUM,¿En qué año se hundió el Titanic?
+HUM,HUM,¿Quién fue el primer estadounidense en caminar en el espacio?
+DESC,DESC,¿Qué es una biosfera?
+LOC,LOC,¿Qué río en los Estados Unidos se conoce como el Big Muddy?
+DESC,DESC,¿Qué es el trastorno bipolar?
+DESC,DESC,Que es el colesterol
+HUM,HUM,¿Quién desarrolló la computadora Macintosh?
+DESC,DESC,¿Qué es la cafeína?
+LOC,DESC,¿Qué línea imaginaria está a medio camino entre los polos norte y sur?
+LOC,LOC,¿Dónde está el aeropuerto John Wayne?
+LOC,LOC,¿En qué hemisferio se encuentra Filipinas?
+NUM,NUM,¿Cuál es la velocidad promedio de los caballos en el Derby de Kentucky?
+LOC,LOC,¿Dónde están las montañas rocosas?
+DESC,DESC,¿Qué son los invertebrados?
+NUM,NUM,¿Cuál es la temperatura en el centro de la tierra?
+NUM,NUM,¿Cuándo fue elegido John F. Kennedy como presidente?
+NUM,NUM,¿Qué edad tenía Elvis Presley cuando murió?
+LOC,LOC,¿Dónde está el río Orinoco?
+NUM,NUM,¿A qué distancia está la línea de servicio de la red en el tenis?
+NUM,NUM,¿Cuánta fibra debes tener por día?
+NUM,NUM,¿Cuántos Grandes Lagos hay?
+ENTY,ENTY,¿El material llamado lino está hecho de qué planta?
+DESC,DESC,¿Qué es el teflón?
+DESC,DESC,¿Qué es la amitriptilina?
+DESC,DESC,¿Qué es un chamán?
+ENTY,ENTY,¿Cuál es el nombre propio de una morsa femenina?
+ENTY,ENTY,¿Cómo se llama un grupo de pavos?
+NUM,NUM,¿Cuánto tiempo durmió Rip Van Winkle?
+DESC,DESC,¿Qué son los triglicéridos?
+NUM,NUM,¿Cuántos litros en un galón?
+HUM,HUM,¿Cuál es el nombre de la compañía de chocolate en San Francisco?
+DESC,DESC,¿Qué son los anfibios?
+HUM,HUM,¿Quién descubrió las radiografías?
+HUM,HUM,¿Qué línea de la firma del comediante es `` ¿Podemos hablar &#39;&#39;?
+DESC,DESC,¿Qué es la fibromialgia?
+DESC,DESC,¿Qué se hace con las banderas gastadas u obsoletas?
+DESC,ABBR,¿Qué significa cc en los motores?
+NUM,NUM,¿Cuándo murió Elvis Presley?
+LOC,LOC,¿Cuál es la capital de Yugoslavia?
+LOC,LOC,Donde esta milan
+NUM,NUM,¿Cuál es la velocidad de los colibríes vuelan?
+LOC,LOC,¿Cuál es la ciudad más antigua de los Estados Unidos?
+HUM,HUM,¿Cuál era el verdadero nombre de WC Fields?
+LOC,LOC,"¿Qué río fluye entre Fargo, Dakota del Norte y Moorhead, Minnesota?"
+ENTY,ENTY,¿Qué comen los murciélagos?
+LOC,LOC,¿En qué estado tuvo lugar la Batalla de Bighorn?
+HUM,HUM,¿Quién fue Abraham Lincoln?
+ENTY,ENTY,¿Cómo se llama un canguro recién nacido?
+DESC,DESC,¿Qué son las arañas vasculares?
+NUM,NUM,¿Qué día y mes murió John Lennon?
+LOC,DESC,¿Qué estrecho separa América del Norte de Asia?
+NUM,NUM,¿Cuál es la población de Seattle?
+NUM,NUM,¿Cuánto fue un boleto para el Titanic?
+LOC,LOC,¿Cuál es la ciudad más grande del mundo?
+HUM,HUM,¿Qué compositor estadounidense escribió la música para `` West Side Story &#39;&#39;?
+LOC,LOC,¿Dónde está el Mall of the America?
+DESC,DESC,¿Qué es la escala de pH?
+ENTY,ENTY,¿Qué tipo de moneda se utiliza en Australia?
+NUM,LOC,"¿Qué altura tiene Gateway Arch en St. Louis, MO?"
+NUM,NUM,¿Cuánto pesa el cerebro femenino adulto humano?
+HUM,HUM,¿Quién fue el primer gobernador de Alaska?
+DESC,DESC,¿Qué es un prisma?
+NUM,NUM,¿Cuándo fue el primer trasplante de hígado?
+HUM,HUM,¿Quién fue elegido presidente de Sudáfrica en 1994?
+NUM,NUM,¿Cuál es la población de China?
+NUM,NUM,¿Cuándo nació Rosa Parks?
+DESC,DESC,¿Por qué es útil una mariquita?
+DESC,DESC,¿Qué es la amoxicilina?
+HUM,HUM,¿Quién fue la primera mujer representante de los Estados Unidos?
+DESC,DESC,¿Qué son los xerófitos?
+LOC,LOC,¿De qué país vino Ponce de León?
+ENTY,ENTY,El Departamento del Tesoro de los Estados Unidos emitió por primera vez papel moneda para los Estados Unidos durante la guerra.
+DESC,DESC,¿Qué es la publicación de escritorio?
+NUM,NUM,¿Cuál es la temperatura de la superficie del sol?
+NUM,NUM,¿En qué año se unió Canadá a las Naciones Unidas?
+HUM,HUM,¿Cuál es la universidad más antigua de los Estados Unidos?
+LOC,LOC,¿Dónde está la Isla del Príncipe Eduardo?
+NUM,NUM,"Mercurio, ¿en qué año se descubrió?"
+DESC,DESC,¿Qué es la criogenia?
+DESC,DESC,¿Qué son los arrecifes de coral?
+ENTY,NUM,¿Cuál es la racha más larga de ganar la liga mayor de béisbol?
+DESC,DESC,¿Qué es la neurología?
+HUM,HUM,¿Quién inventó la calculadora?
+DESC,DESC,¿Cómo se miden los terremotos?
+HUM,HUM,¿Quién es Duke Ellington?
+LOC,LOC,"¿En qué condado está Phoenix, AZ?"
+DESC,DESC,¿Qué es una micra?
+NUM,NUM,"El núcleo del sol, ¿cuál es la temperatura?"
+ENTY,ENTY,¿Qué es el pájaro del estado de Ohio?
+NUM,NUM,¿Cuándo nacieron los gemelos de William Shakespeare?
+LOC,ENTY,¿Cuál es la presa más alta en los Estados Unidos?
+ENTY,ENTY,¿De qué color es una rana flecha venenosa?
+DESC,DESC,¿Qué es la acupuntura?
+NUM,NUM,¿Cuál es la longitud de la costa del estado de Alaska?
+HUM,HUM,¿Cuál es el nombre de la esposa de Neil Armstrong?
+ENTY,LOC,¿Cuál es la flor del estado de Hawai?
+HUM,HUM,¿Quién ganó la Sra. American en 1989?
+NUM,NUM,¿Cuándo se estrelló el Hindenberg?
+ENTY,ENTY,¿Qué mineral ayuda a prevenir la osteoporosis?
+NUM,NUM,¿Cuál fue el último año en que los Cachorros de Chicago ganaron la Serie Mundial?
+LOC,LOC,¿Dónde está Perth?
+NUM,NUM,¿En qué año comenzó la Segunda Guerra Mundial?
+NUM,NUM,¿Cuál es el diámetro de una pelota de golf?
+DESC,DESC,¿Qué es un eclipse?
+HUM,HUM,Quien descubrio America ?
+NUM,NUM,¿Cuál es el diámetro de la tierra?
+HUM,HUM,¿Qué presidente estaba soltero?
+NUM,NUM,¿Qué tan ancha es la galaxia Vía Láctea?
+NUM,NUM,¿Durante qué temporada ocurren la mayoría de las tormentas eléctricas?
+DESC,DESC,¿Qué es Wimbledon?
+NUM,NUM,¿Cuál es el período de gestación de un gato?
+NUM,NUM,¿Qué tan lejos está una milla náutica?
+HUM,HUM,¿Quién fue el abolicionista que dirigió la redada en Harper &#39;s Ferry en 1859?
+DESC,DESC,¿Qué significa la frecuencia cardíaca objetivo?
+ENTY,LOC,¿Cuál fue el primer satélite en ir al espacio?
+DESC,DESC,¿Qué es la ejecución hipotecaria?
+ENTY,DESC,¿Cuál es la línea de falla principal cerca de Kentucky?
+LOC,LOC,¿Dónde está el túnel de Holanda?
+HUM,HUM,¿Quién escribió el himno &quot;Amazing Grace&quot;?
+HUM,HUM,¿Qué posición jugó Willie Davis en el béisbol?
+DESC,DESC,¿Qué son las plaquetas?
+DESC,DESC,¿Qué es la indemnización por despido?
+ENTY,ENTY,¿Cuál es el nombre del perro de Roy Roger?
+LOC,LOC,¿Dónde están los archivos nacionales?
+ENTY,ENTY,¿Cómo se llama un pavo bebé?
+DESC,DESC,¿Qué es la poliomielitis?
+ENTY,ENTY,¿Cuál es el hueso más largo del cuerpo humano?
+HUM,HUM,¿Quién es un filósofo alemán?
+ENTY,ENTY,¿Cuáles eran los tres barcos de Cristóbal Colón?
+DESC,DESC,¿Qué significa Phi Beta Kappa?
+DESC,DESC,¿Qué es la nicotina?
+ENTY,ENTY,¿Cuál es otro nombre para la vitamina B1?
+HUM,HUM,¿Quién descubrió el radio?
+DESC,DESC,¿Qué son las manchas solares?
+NUM,NUM,¿Cuándo fue colonizada Argelia?
+HUM,HUM,¿Qué equipo de béisbol fue el primero en hacer que los números formaran parte de su uniforme?
+LOC,LOC,¿En qué continente está Egipto?
+LOC,LOC,¿Cuál es la capital de Mongolia?
+DESC,DESC,¿Qué es la nanotecnología?
+LOC,ENTY,"A fines de la década de 1700, los convictos británicos fueron utilizados para poblar qué colonia?"
+LOC,LOC,¿Qué estado es el centro geográfico de los 48 estados más bajos?
+DESC,DESC,¿Qué es un ángulo obtuso?
+DESC,DESC,¿Qué son los polímeros?
+NUM,NUM,¿Cuándo es la temporada de huracanes en el Caribe?
+LOC,LOC,¿Dónde está el volcán Mauna Loa?
+ENTY,ENTY,¿Cuál es otro término astronómico para la aurora boreal?
+LOC,LOC,¿De qué península forma parte España?
+NUM,NUM,¿Cuándo nació Lyndon B. Johnson?
+DESC,DESC,¿Qué es el paracetamol?
+LOC,LOC,¿Qué estado tiene la menor cantidad de lluvia al año?
+HUM,HUM,¿Quién fundó la Cruz Roja Americana?
+NUM,NUM,¿En qué año se convirtieron los Bravos de Milwaukee en los Bravos de Atlanta?
+NUM,NUM,¿Qué tan rápido se absorbe el alcohol?
+NUM,NUM,¿Cuándo es el solsticio de verano?
+DESC,DESC,¿Qué es la supernova?
+LOC,LOC,¿Dónde está el Bosque Nacional Shawnee?
+LOC,DESC,¿Cuál es el lema del estado de los Estados Unidos &quot;Vive libre o muere&quot;?
+LOC,LOC,¿Dónde está el Lourve?
+NUM,NUM,¿Cuándo se emitió el primer sello?
+ENTY,ENTY,¿Qué colores primarios se mezclan para hacer naranja?
+NUM,NUM,¿A qué distancia se encuentra Plutón del sol?
+LOC,LOC,¿En qué masa de agua se encuentran las islas canarias?
+DESC,DESC,¿Qué es la neuropatía?
+LOC,LOC,¿Dónde está el río Éufrates?
+DESC,DESC,¿Qué es la criptografía?
+ENTY,ENTY,¿De qué está compuesto el gas natural?
+HUM,HUM,¿Quién es el primer ministro de Canadá?
+HUM,HUM,¿Qué gobernante francés fue derrotado en la batalla de Waterloo?
+DESC,DESC,¿Qué es la leucemia?
+LOC,LOC,¿Dónde murió Howard Hughes?
+ENTY,NUM,¿Cuál es la piedra de nacimiento para junio?
+ENTY,NUM,¿Cuál es el impuesto sobre las ventas en Minnesota?
+NUM,NUM,¿Cuál es la distancia en millas desde la tierra hasta el sol?
+NUM,NUM,¿Cuál es el promedio de vida de un pollo?
+NUM,NUM,¿Cuándo se abrió la primera tienda de Wal-Mart?
+DESC,DESC,¿Qué es la humedad relativa?
+LOC,LOC,¿Qué ciudad tiene el código postal 35824?
+ENTY,ENTY,¿Qué moneda se usa en Argelia?
+HUM,HUM,¿Quién inventó el hula hoop?
+ENTY,ENTY,¿Cuál fue el juguete más popular en 1957?
+ENTY,DESC,¿De qué está hecho el pastrami?
+ENTY,LOC,¿Cuál es el nombre del satélite que la Unión Soviética envió al espacio en 1957?
+LOC,LOC,¿Qué periódico de la ciudad se llama `` The Enquirer &#39;&#39;?
+HUM,HUM,¿Quién inventó el slinky?
+ENTY,ENTY,¿Cómo se llaman los animales que no tienen espinas?
+NUM,DESC,¿Cuál es el punto de fusión del cobre?
+LOC,LOC,¿Dónde está ubicado el volcán Olimpo?
+HUM,HUM,¿Quién fue el 23 presidente de los Estados Unidos?
+NUM,NUM,¿Cuál es la temperatura corporal promedio?
+DESC,DESC,¿Qué hace un desfibrilador?
+DESC,DESC,¿Cuál es el efecto de la lluvia ácida?
+NUM,NUM,¿En qué año abolió Estados Unidos el borrador?
+NUM,NUM,Qué tan rápida es la velocidad de la luz ?
+LOC,LOC,¿En qué provincia se encuentra Montreal?
+LOC,LOC,¿Qué estructura de la ciudad de Nueva York también se conoce como las Torres Gemelas?
+DESC,DESC,¿Qué es el hongo?
+ENTY,ENTY,¿Cuál es el idioma más hablado en los Países Bajos?
+DESC,DESC,¿Qué es el cloruro de sodio?
+ENTY,ENTY,¿Cómo se llaman los puntos en el dominó?
+NUM,NUM,¿Cuántas libras en una tonelada?
+DESC,DESC,¿Qué es la influenza?
+DESC,DESC,¿Qué es el agotamiento del ozono?
+NUM,NUM,¿En qué año fue pintada la mona lisa?
+DESC,DESC,¿Qué significa &quot;Shiva Sentado&quot;?
+ENTY,LOC,"¿Cuál es la salida eléctrica en Madrid, España?"
+LOC,LOC,¿Qué cordillera en América del Norte se extiende desde Maine hasta Georgia?
+ENTY,ENTY,¿De qué está hecho el plástico?
+NUM,NUM,¿Cuál es la población de Nigeria?
+DESC,DESC,¿Qué hace tu bazo?
+LOC,LOC,¿Dónde está el Gran Cañón?
+HUM,HUM,Quién inventó el teléfono ?
+NUM,NUM,¿En qué año compró Alaska Estados Unidos?
+HUM,HUM,¿Cuál es el nombre del líder de Irlanda?
+DESC,DESC,¿Qué es la fenilalanina?
+NUM,NUM,¿Cuántos galones de agua hay en un pie cúbico?
+ENTY,LOC,¿Cuáles son las dos casas de la rama legislativa?
+DESC,DESC,¿Qué es el sonar?
+LOC,LOC,"En Polonia, ¿dónde vive la mayoría de la gente?"
+DESC,DESC,¿Qué es el fósforo?
+LOC,LOC,¿Cuál es la ubicación del Mar de la Tranquilidad?
+NUM,NUM,¿Qué tan rápido es el sonido?
+LOC,LOC,¿En qué provincia francesa se produce el coñac?
+DESC,NUM,¿Qué es el día de San Valentín?
+DESC,DESC,¿Qué causa el cabello gris?
+DESC,DESC,¿Qué es la hipertensión?
+DESC,DESC,¿Qué es el ancho de banda?
+LOC,LOC,¿Cuál es el puente colgante más largo de los Estados Unidos?
+DESC,DESC,¿Qué es un parásito?
+DESC,DESC,¿Qué es la equidad de la vivienda?
+DESC,DESC,¿Qué hacen los meteorólogos?
+ENTY,DESC,¿Cuál es el criterio para ser legalmente ciego?
+HUM,HUM,¿Quién es el hombre más alto del mundo?
+LOC,LOC,¿Cuáles son las ciudades gemelas?
+ENTY,ENTY,¿Qué inventaron Edward Binney y Howard Smith en 1903?
+ENTY,LOC,¿De qué está hecha la estatua de la libertad?
+DESC,DESC,¿Qué es pilates?
+LOC,LOC,¿Qué planeta se conoce como el planeta &quot;rojo&quot;?
+NUM,LOC,¿Cuál es la profundidad del río Nilo?
+ENTY,ENTY,¿Cómo se llama el colorido vestido tradicional coreano?
+DESC,DESC,¿Qué es el carnaval?
+NUM,NUM,¿Los pesos mexicanos valen lo que en dólares?
+HUM,HUM,¿Quién fue el primer afroamericano en jugar para los Dodgers de Brooklyn?
+HUM,HUM,¿Quién fue el primer primer ministro de Canadá?
+NUM,NUM,¿Cuántos almirantes hay en la Marina de los Estados Unidos?
+ENTY,ENTY,¿Qué instrumento tocó Glenn Miller?
+NUM,NUM,¿Cuántos años tenía Juana de Arco cuando murió?
+DESC,DESC,¿Qué significa la palabra quincena?
+DESC,DESC,¿Qué es la dianética?
+LOC,LOC,¿Cuál es la capital de Etiopía?
+NUM,NUM,¿Por cuánto tiempo está embarazada un elefante?
+DESC,DESC,¿Cómo murió Janice Joplin?
+ENTY,ENTY,¿Cuál es el idioma principal en Islandia?
+DESC,DESC,¿Cuál es la diferencia entre las estaciones de radio AM y las estaciones de radio FM?
+DESC,DESC,¿Qué es la osteoporosis?
+HUM,HUM,¿Quién fue la primera mujer gobernadora en los Estados Unidos?
+DESC,DESC,¿Qué es el peyote?
+DESC,DESC,¿Para qué se usa el esófago?
+DESC,DESC,¿Qué es la viscosidad?
+NUM,NUM,¿En qué año se convirtió Oklahoma en un estado?
+ABBR,ABBR,¿Cuál es la abreviatura de Texas?
+ENTY,DESC,¿De qué está hecho un espejo?
+LOC,LOC,¿Dónde en el cuerpo es un birrete usado?
+HUM,HUM,¿Cuál era el nombre de la esposa de JFK?
+ABBR,DESC,¿Qué significa IV?
+DESC,DESC,¿Qué es el chunnel?
+LOC,LOC,¿Dónde está enterrado Hitler?
+DESC,DESC,¿Qué son los antiácidos?
+DESC,DESC,¿Qué es la fibrosis pulmonar?
+DESC,DESC,¿Qué son Quaaludes?
+DESC,DESC,¿Qué es el naproxeno?
+DESC,DESC,¿Qué es la faringitis estreptocócica?
+LOC,LOC,¿Cuál es la ciudad más grande de los Estados Unidos?
+ENTY,DESC,¿Qué es la fiebre aftosa?
+NUM,NUM,¿Cuál es la expectativa de vida de un billete de un dólar?
+ENTY,ENTY,¿Cómo llamas a un dibujante de mapas profesional?
+DESC,DESC,¿Qué son los aborígenes?
+DESC,DESC,¿Qué es la hibridación?
+ENTY,ENTY,¿De qué color es el índigo?
+NUM,NUM,¿Cuántos años debes tener para alquilar un coche en Italia?
+ENTY,NUM,¿Qué mide un barómetro?
+ENTY,ENTY,¿De qué color es la lengua de una jirafa?
+ABBR,DESC,¿Qué significa USPS?
+NUM,NUM,¿En qué año entró en huelga la NFL?
+DESC,DESC,¿Qué es el viento solar?
+NUM,NUM,¿En qué fecha aterrizó Neil Armstrong en la luna?
+NUM,NUM,¿Cuándo fue bombardeada Hiroshima?
+LOC,LOC,¿Dónde está el río Savannah?
+HUM,HUM,¿Quién fue la primera mujer asesinada en la guerra de Vietnam?
+LOC,LOC,¿Qué planeta tiene el campo magnético más fuerte de todos los planetas?
+HUM,HUM,¿Quién es el gobernador de Alaska?
+NUM,NUM,¿En qué año tomó Mussolini el poder en Italia?
+LOC,LOC,¿Cuál es la capital de Persia?
+LOC,LOC,Donde está la torre Eiffel ?
+NUM,NUM,¿Cuántos corazones tiene un pulpo?
+DESC,DESC,¿Qué es la neumonía?
+LOC,LOC,¿Cuál es el lago más profundo de los Estados Unidos?
+DESC,DESC,¿Qué es una celda de combustible?
+HUM,HUM,¿Quién fue el primer presidente de los Estados Unidos en aparecer en la televisión?
+LOC,LOC,¿Dónde está el Museo de las Pequeñas Ligas?
+ENTY,ENTY,¿Cuáles son los dos tipos de gemelos?
+LOC,HUM,¿Cuál es la estrella más brillante?
+DESC,DESC,¿Qué es la diabetes?
+NUM,NUM,¿Cuándo fue fusilado el presidente Kennedy?
+ABBR,DESC,¿Qué es la ATM?
+ENTY,ENTY,¿De qué color es la leche de yak?
+NUM,NUM,¿En qué fecha nació Dwight D. Eisenhower?
+ABBR,ABBR,¿Qué significa el término técnico RDSI?
+DESC,DESC,¿Por qué el sol es amarillo?
+NUM,NUM,¿Cuál es la tasa de conversión entre dólares y libras?
+NUM,NUM,¿Cuándo nació Abraham Lincoln?
+DESC,DESC,¿Qué es la Vía Láctea?
+DESC,DESC,¿Qué es el moho?
+NUM,NUM,¿En qué año nació Mozart?
+ENTY,ENTY,¿Cómo se llama un grupo de ranas?
+ENTY,ENTY,¿Cuál es el nombre de la nave de William Penn?
+NUM,DESC,¿Cuál es el punto de fusión del oro?
+LOC,LOC,¿Cuál es la dirección de la calle de la Casa Blanca?
+DESC,DESC,¿Qué es la sémola?
+ENTY,ENTY,¿De qué fruta se hace la salsa melba?
+DESC,DESC,¿Qué es la Osa Mayor?
+NUM,NUM,¿Cuál es el porcentaje de contenido de agua en el cuerpo humano?
+NUM,NUM,¿Cuánto pesa el agua?
+ENTY,ENTY,¿Cómo se llamó el programa de reforma del presidente Lyndon Johnson?
+NUM,NUM,"¿Cuál es la tasa de homicidios en Windsor, Ontario?"
+HUM,HUM,¿Quién es el único presidente para servir 2 términos no consecutivos?
+NUM,NUM,¿Cuál es la población de Australia?
+HUM,HUM,¿Quién pintó el techo de la Capilla Sixtina?
+ENTY,ENTY,Nombra un estimulante.
+DESC,DESC,¿Cuál es el efecto de los volcanes sobre el clima?
+NUM,NUM,¿En qué año comenzó el show de Andy Griffith?
+DESC,DESC,¿Qué es la lluvia ácida?
+NUM,NUM,¿Cuál es la fecha de la independencia de México?
+LOC,LOC,¿Cuál es la ubicación del lago Champlain?
+ENTY,DESC,¿Qué es la flor del estado de Illinois?
+ENTY,ENTY,¿Cuál es el pájaro del estado de Maryland?
+DESC,DESC,¿Qué es Quicksilver?
+HUM,HUM,¿Quién escribió `` The Divine Comedy &#39;&#39;?
+NUM,NUM,¿Cuál es la velocidad de la luz?
+NUM,NUM,¿Cuál es el ancho de un campo de fútbol?
+DESC,DESC,¿Por qué en el tenis hay cero puntos llamados amor?
+ENTY,ENTY,¿Qué clase de perro era Toto en el Mago de Oz?
+DESC,DESC,¿Qué es una tiroides?
+DESC,DESC,¿Qué significa ciao?
+ENTY,ENTY,¿Cuál es la única arteria que transporta sangre azul del corazón a los pulmones?
+NUM,NUM,¿Con qué frecuencia entra en erupción Old Faithful en el Parque Nacional Yellowstone?
+DESC,DESC,¿Qué es el ácido acético?
+NUM,NUM,"¿Cuál es la elevación de St. Louis, MO?"
+ENTY,ENTY,¿De qué color gira el papel de tornasol cuando entra en contacto con un ácido fuerte?
+ENTY,ENTY,¿Cuáles son los colores de la bandera alemana?
+DESC,DESC,¿Qué es el Moulin Rouge?
+LOC,LOC,¿Qué puerto soviético está en el Mar Negro?
+NUM,NUM,¿Cuál es el peso atómico de la plata?
+ENTY,ENTY,¿Qué moneda usan en Brasil?
+DESC,DESC,¿Qué son los patógenos?
+DESC,DESC,¿Qué es la enfermedad de las vacas locas?
+ENTY,ENTY,Nombra un alimento alto en zinc.
+NUM,NUM,¿Cuándo entró Carolina del Norte en el sindicato?
+LOC,LOC,¿Dónde viven los caracoles de manzana?
+DESC,DESC,¿Qué son las éticas?
+ABBR,DESC,¿Qué significa la RCP?
+DESC,DESC,¿Qué es una anualidad?
+HUM,HUM,¿Quién mató a John F. Kennedy?
+HUM,HUM,¿Quién fue el primer vicepresidente de los Estados Unidos?
+ENTY,ENTY,¿Qué piedra de nacimiento es turquesa?
+HUM,HUM,¿Quién fue el primer presidente de los EE. UU. En viajar en automóvil hasta su inauguración?
+NUM,NUM,¿Cuántos años tenía el presidente más joven de los Estados Unidos?
+NUM,NUM,¿Cuándo nació Ulises S. Grant?
+DESC,DESC,¿Qué es la distrofia muscular?
+HUM,HUM,¿Quién vivió en el castillo de Neuschwanstein?
+DESC,DESC,¿Qué es el propilenglicol?
+DESC,ENTY,¿Qué es un trastorno de pánico?
+HUM,HUM,¿Quién inventó la cámara instantánea Polaroid?
+DESC,DESC,¿Qué es un carcinógeno?
+ENTY,ENTY,¿Cómo se llama un bebé león?
+NUM,NUM,¿Cuál es la población mundial?
+DESC,DESC,¿Qué es el nepotismo?
+DESC,DESC,¿Qué es el casting?
+DESC,DESC,¿Qué es la miopía?
+NUM,NUM,¿Cuál es la tasa de impuesto a las ventas en Nueva York?
+NUM,NUM,Las naciones en desarrollo comprenden qué porcentaje de la población mundial?
+LOC,LOC,¿Cuál es la cuarta montaña más alta del mundo?
+HUM,HUM,¿Cuál es el apodo de Shakespeare?
+ENTY,ENTY,¿Cuál es el elemento natural más pesado?
+NUM,NUM,¿Cuándo es el día del padre?
+ABBR,ABBR,¿Qué significa el acrónimo de la NASA?
+NUM,NUM,¿Cuánto mide el río Columbia en millas?
+LOC,LOC,¿Qué periódico de la ciudad se llama `` The Star &#39;&#39;?
+DESC,DESC,¿Qué es el dióxido de carbono?
+LOC,LOC,¿Dónde está la línea Mason / Dixon?
+NUM,NUM,¿Cuándo fue la fiesta del té de Boston?
+DESC,DESC,¿Qué es el metabolismo?
+HUM,HUM,¿Qué presidente de los Estados Unidos apareció en `` Laugh-In &#39;&#39;?
+ENTY,DESC,¿De qué están hechos los cigarrillos?
+LOC,LOC,¿Cuál es la capital de Zimbabwe?
+ABBR,DESC,¿Qué significa la NASA?
+ENTY,ENTY,¿Cuál es la flor del estado de Michigan?
+DESC,DESC,¿Qué son los semiconductores?
+DESC,DESC,¿Qué es la energía nuclear?
+DESC,DESC,¿Qué es un tsunami?
+HUM,HUM,¿Quién es el congresista del estado de Texas en el comité de las fuerzas armadas?
+HUM,HUM,¿Quién fue presidente en 1913?
+NUM,NUM,¿Cuándo fue el primer trasplante renal?
+LOC,LOC,¿Cuáles son los dos territorios de Canadá?
+ENTY,ENTY,¿Cuál era el nombre del avión que Lindbergh voló solo a través del Atlántico?
+DESC,DESC,¿Qué es el genocidio?
+LOC,LOC,¿En qué continente está Argentina?
+ENTY,ENTY,¿Qué monasterio fue allanado por los vikingos a finales del siglo VIII?
+DESC,DESC,¿Qué es un terremoto?
+LOC,LOC,¿Dónde está ubicada la montaña rusa más alta?
+DESC,DESC,¿Qué son las enzimas?
+HUM,HUM,¿Quién descubrió el oxígeno?
+DESC,DESC,¿Qué es bangers y puré?
+ENTY,ENTY,¿Cuál es el nombre que se le da al Tigre en la Universidad Estatal de Louisiana?
+LOC,LOC,¿Dónde se guardan las joyas de la corona británica?
+HUM,HUM,¿Quién fue la primera persona en llegar al Polo Norte?
+DESC,DESC,¿Qué es una úlcera?
+DESC,DESC,¿Qué es vertigo?
+DESC,DESC,¿Qué es la prueba del espirómetro?
+NUM,NUM,¿Cuándo es el primer día oficial de verano?
+ABBR,ABBR,¿Qué significa la abreviatura SOS?
+ENTY,ENTY,¿Cuál es el ave más pequeña en Gran Bretaña?
+HUM,HUM,¿Quién inventó la búsqueda trivial?
+ENTY,ENTY,¿Qué gases hay en la troposfera?
+LOC,LOC,¿Qué país tiene la mayor contaminación del agua?
+ENTY,ENTY,¿Cuál es el nombre científico de elefante?
+HUM,HUM,¿Quién es la actriz conocida por su papel en la película `` Gypsy &#39;&#39;?
+ENTY,ENTY,¿Qué raza de perro de caza poseían los Beverly Hillbillies?
+LOC,LOC,¿Cuál es el lugar más lluvioso en la Tierra?
+HUM,HUM,¿Quién fue el primer afroamericano en ganar el Premio Nobel de literatura?
+NUM,NUM,¿Cuándo es el día de San Patricio?
+ENTY,ENTY,¿Cuál era el nombre del perro de FDR?
+ENTY,ENTY,¿Qué colores hay que mezclar para obtener el color rosa?
+ENTY,ENTY,¿Cuál es el deporte más popular en Japón?
+ENTY,ENTY,¿Cuál es el ingrediente activo en el bicarbonato de sodio?
+NUM,NUM,¿Cuándo nació Thomas Jefferson?
+NUM,NUM,¿Qué tan frío debe estar un refrigerador?
+NUM,NUM,¿Cuándo se inventó el teléfono?
+ENTY,ENTY,¿Cuál es el color de ojos más común?
+LOC,LOC,¿Dónde fue el primer campo de golf en los Estados Unidos?
+DESC,DESC,¿Qué es la esquizofrenia?
+DESC,DESC,¿Qué es la angiotensina?
+HUM,HUM,¿Qué organizó Jesse Jackson?
+ENTY,LOC,¿Cuál es el pájaro del estado de Nueva York?
+LOC,DESC,¿Qué es el Parque Nacional en Utah?
+NUM,NUM,¿Cuál es el cumpleaños de Susan B. Anthony?
+LOC,LOC,¿En qué estado encontrarías las montañas Catskill?
+ENTY,ENTY,¿Cómo llamas a una palabra que se escribe igual hacia atrás y hacia delante?
+DESC,DESC,¿Qué son los pediatras?
+HUM,LOC,"¿Qué cadena de tiendas tiene su sede en Bentonville, Arkansas?"
+DESC,DESC,¿Qué son las células solares?
+DESC,DESC,¿Qué es el interés compuesto?
+DESC,DESC,¿Qué son las alcaparras?
+DESC,DESC,¿Qué es un antígeno?
+ENTY,LOC,¿Qué moneda usa Luxemburgo?
+NUM,NUM,¿Cuál es la población de Venezuela?
+ENTY,ENTY,¿Qué tipo de polímero se usa para los chalecos antibalas?
+ENTY,ENTY,¿Qué moneda usa Argentina?
+DESC,DESC,¿Qué es un termómetro?
+LOC,LOC,¿Qué ciudad canadiense tiene la mayor población?
+ENTY,ENTY,¿De qué color son los grillos?
+LOC,LOC,¿Qué país le dio a Nueva York la Estatua de la Libertad?
+ENTY,HUM,¿Cuál fue el nombre del primer satélite estadounidense enviado al espacio?
+ENTY,ENTY,¿Qué piedra preciosa es una forma de carbono puro?
+ENTY,ENTY,¿Qué tipo de gas hay en una bombilla fluorescente?
+DESC,DESC,¿Qué es la artritis reumatoide?
+LOC,LOC,"¿Qué río atraviesa Rowe, Italia?"
+DESC,DESC,¿Qué es la parálisis cerebral?
+LOC,LOC,¿A qué ciudad también se la conoce como &quot;La puerta de entrada al oeste&quot;?
+NUM,NUM,¿A qué distancia está la luna?
+ENTY,LOC,¿Cuál es la fuente de gas natural?
+ENTY,LOC,¿En qué nave espacial el astronauta estadounidense Alan Shepard realizó su histórico vuelo en 1961?
+DESC,DESC,¿Qué es la pectina?
+DESC,DESC,¿Qué es la biodiversidad?
+ENTY,DESC,¿Cuál es la forma más fácil de quitar el papel tapiz?
+NUM,NUM,¿En qué año comenzó el Titanic en su viaje?
+NUM,NUM,¿Cuánto de una manzana es agua?
+HUM,HUM,¿Quién fue el 22º presidente de los Estados Unidos?
+ENTY,NUM,¿Cuál es el dinero que usan en Zambia?
+NUM,NUM,¿Cuántos pies en una milla?
+ENTY,DESC,¿Cuál es la piedra de nacimiento de octubre?
+DESC,DESC,¿Qué es e-coli?

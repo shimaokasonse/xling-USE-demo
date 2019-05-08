@@ -1,0 +1,501 @@
+label,predicted,text
+NUM,NUM,Denver에서 Aspen까지 얼마나 걸립니까?
+LOC,LOC,캘리포니아 주 모데 스토는 어떤 카운티에 있습니까?
+HUM,HUM,갈릴레오는 누구였습니까?
+DESC,DESC,원자는 무엇입니까?
+NUM,NUM,하와이는 언제 국가가 되었습니까?
+NUM,NUM,Sears Building의 높이는 얼마나됩니까?
+HUM,HUM,조지 부시는 야구 팀에 작은 관심을 샀다.
+ENTY,DESC,호주의 국화 란 무엇입니까?
+DESC,DESC,왜 달이 주황색으로 변합니까?
+DESC,DESC,자폐증이란 무엇인가?
+LOC,LOC,어떤 도시가 1900 년에 세계를 공정하게 만들었습니까?
+HUM,HUM,어떤 사람의 머리가 십분에 있습니까?
+NUM,NUM,노란 래브라도의 평균 무게는 얼마입니까?
+HUM,HUM,태평양을 건너기 시작한 사람은 누구였습니까?
+NUM,NUM,Idaho는 언제 국가가 되었습니까?
+NUM,NUM,크리켓의 예상 수명은 얼마입니까?
+ENTY,ENTY,어떤 금속이 가장 높은 융점을 갖는가?
+HUM,HUM,소아마비 예방 접종은 누가 개발 했습니까?
+DESC,DESC,간질이란 무엇입니까?
+NUM,NUM,타이타닉은 몇 해 동안 침몰 했습니까?
+HUM,HUM,우주에서 처음으로 미국인은 누구였습니까?
+DESC,DESC,생물 권이란 무엇입니까?
+LOC,LOC,Big Muddy라고하는 미국의 강은 무엇입니까?
+DESC,DESC,양극성 장애 란 무엇입니까?
+DESC,DESC,콜레스테롤이란 무엇입니까?
+HUM,HUM,누가 Macintosh 컴퓨터를 개발 했습니까?
+DESC,DESC,카페인이란 무엇인가?
+LOC,DESC,북극과 남극의 중간에 어떤 상상의 선이 있습니까?
+LOC,LOC,존 웨인 공항은 어디 있습니까?
+LOC,NUM,필리핀은 어떤 반구인가?
+NUM,NUM,켄터키 더비에서 말의 평균 속도는 얼마입니까?
+LOC,LOC,록키 산맥은 어디 있습니까?
+DESC,DESC,무척추 동물이란 무엇입니까?
+NUM,NUM,지구의 중앙에있는 온도는 얼마입니까?
+NUM,NUM,John F. Kennedy는 언제 대통령으로 선출 되었습니까?
+NUM,NUM,엘비스 프레슬리가 죽었을 때 몇 살 이었어?
+LOC,LOC,오리 노코 강은 어디 있습니까?
+NUM,NUM,테니스에서 네트에서 서비스 라인까지의 거리는 얼마입니까?
+NUM,NUM,하루에 얼마만큼의 섬유소를 가져야합니까?
+NUM,NUM,오대호 몇 개가 있습니까?
+ENTY,ENTY,린넨이라는 소재는 어떤 식물에서 만들어 졌습니까?
+DESC,DESC,테플론이란 무엇입니까?
+DESC,DESC,아미 트립 틸린이란 무엇입니까?
+DESC,DESC,무당이란 무엇입니까?
+ENTY,ENTY,여성 해마의 이름은 무엇입니까?
+ENTY,DESC,칠면조 그룹이란 무엇입니까?
+NUM,NUM,립 반 윙클은 얼마나 오래 자게 되었습니까?
+DESC,DESC,중성 지방이란?
+NUM,NUM,갤런 당 몇 리터입니까?
+HUM,HUM,샌프란시스코에있는 초콜릿 회사의 이름은 무엇입니까?
+DESC,DESC,양서류 란 무엇입니까?
+HUM,HUM,누가 엑스레이를 발견 했습니까?
+HUM,HUM,어떤 코미디언의 서명 라인이``우리가 할 수 있을까? &#39;
+DESC,DESC,fibromyalgia 무엇입니까?
+DESC,DESC,낡고 오래된 플래그로 무엇을 할 수 있습니까?
+DESC,DESC,엔진의 참조 란 무엇입니까?
+NUM,NUM,엘비스 프레슬리는 언제 죽었습니까?
+LOC,LOC,유고 슬라비아의 수도는 무엇입니까?
+LOC,LOC,밀라노는 어디 있습니까?
+NUM,DESC,스피드 벌새는 무엇입니까?
+LOC,LOC,미국에서 가장 오래된 도시는 무엇입니까?
+HUM,LOC,WC Fields의 진짜 이름은 무엇입니까?
+LOC,DESC,노스 다코타주의 파고와 미네소타의 무어 헤드 사이에 흐르는 강은 무엇입니까?
+ENTY,ENTY,배트는 무엇을 먹나요?
+LOC,LOC,Bighorn의 전투는 어떤 상태로 진행 되었습니까?
+HUM,HUM,에이브 러햄 링컨은 누구였습니까?
+ENTY,DESC,신생아 캥거루 란 무엇입니까?
+DESC,DESC,거미 정맥은 무엇입니까?
+NUM,NUM,"John Lennon은 몇 일, 몇 달 간 죽었습니까?"
+LOC,DESC,북아메리카와 아시아의 구분은 무엇입니까?
+NUM,NUM,시애틀의 인구는 얼마입니까?
+NUM,NUM,타이타닉 티켓은 얼마 죠?
+LOC,LOC,세계에서 가장 큰 도시는 무엇입니까?
+HUM,ENTY,미국 작곡가가 &quot;웨스트 사이드 스토리&quot;를 위해 음악을 작곡 한 것은 무엇입니까?
+LOC,LOC,아메리카 몰 (Mall of the America)은 어디에 있습니까?
+DESC,DESC,pH 스케일은 무엇입니까?
+ENTY,ENTY,호주에서는 어떤 종류의 통화가 사용됩니까?
+NUM,NUM,세인트 루이스 (MO)의 게이트웨이 아치 (Gateway Arch)는 얼마나 큰가요?
+NUM,NUM,인간 성인 여성 뇌의 무게는 얼마입니까?
+HUM,HUM,알라스카 최초의 총독은 누구였습니까?
+DESC,DESC,프리즘이란 무엇입니까?
+NUM,NUM,첫 번째 간 이식 수술은 언제 시작 했습니까?
+HUM,HUM,1994 년 남아프리카 공화국 대통령으로 누가 선출 되었습니까?
+NUM,NUM,중국 인구는 얼마입니까?
+NUM,NUM,Rosa Parks는 언제 태어 났습니까?
+DESC,DESC,무당 벌레가 왜 도움이됩니까?
+DESC,DESC,아목시실린이란 무엇입니까?
+HUM,HUM,최초의 미국 여성 대표는 누구입니까?
+DESC,DESC,xerophytes 란 무엇입니까?
+LOC,LOC,Ponce de Leon은 어떤 나라에서 왔습니까?
+ENTY,HUM,미국 재무부는 전쟁 중 미국에 대해 처음으로 종이 화폐를 발행 했습니까?
+DESC,DESC,데스크톱 게시 란 무엇입니까?
+NUM,NUM,태양 표면의 온도는 얼마입니까?
+NUM,NUM,캐나다는 몇 년 동안 UN에 가입 했습니까?
+HUM,HUM,미국에서 가장 오래된 대학은 무엇입니까?
+LOC,LOC,프린스 에드워드 아일랜드는 어디에 있습니까?
+NUM,NUM,"수성, 그게 몇 년이나 발견 됐어?"
+DESC,DESC,저온 학이란 무엇입니까?
+DESC,DESC,산호초는 무엇입니까?
+ENTY,NUM,메이저 리그에서 가장 긴 야구 연승은 무엇입니까?
+DESC,DESC,신경학이란 무엇인가?
+HUM,HUM,누가 계산기를 발명 했습니까?
+DESC,DESC,지진은 어떻게 측정합니까?
+HUM,HUM,듀크 엘링턴은 누구입니까?
+LOC,LOC,"피닉스, AZ는 어떤 카운티에 있습니까?"
+DESC,DESC,미크론은 무엇입니까?
+NUM,NUM,태양의 핵심은 온도입니까?
+ENTY,ENTY,오하이오주의 새는 무엇입니까?
+NUM,NUM,William Shakespeare의 쌍둥이가 언제 태어 났습니까?
+LOC,LOC,미국에서 가장 높은 댐은 무엇입니까?
+ENTY,ENTY,독 개구리는 어떤 색입니까?
+DESC,DESC,침술이란 무엇인가?
+NUM,NUM,알래스카 주 해안선의 길이는 얼마입니까?
+HUM,HUM,닐 암스트롱의 아내 이름은 무엇입니까?
+ENTY,ENTY,하와이주의 꽃은 무엇입니까?
+HUM,HUM,1989 년에 미국인이 된 사람은 누구입니까?
+NUM,NUM,힌덴 베르크는 언제 추락 했습니까?
+ENTY,ENTY,어떤 미네랄이 골다공증 예방에 도움이됩니까?
+NUM,ENTY,시카고 컵스가 월드 시리즈에서 우승 한 마지막 해에는 무엇이 있었습니까?
+LOC,LOC,퍼스는 어디 있습니까?
+NUM,NUM,2 차 세계 대전이 몇 해 시작 되었습니까?
+NUM,NUM,골프 공의 지름은 얼마입니까?
+DESC,DESC,이클립스 란 무엇입니까?
+HUM,HUM,누가 미국을 발견 했습니까?
+NUM,NUM,지름은 얼마입니까?
+HUM,HUM,어떤 미혼 이었습니까?
+NUM,NUM,은하계는 얼마나 넓습니까?
+NUM,NUM,어느 계절에 대부분의 뇌우가 발생합니까?
+DESC,DESC,윔블던이란 무엇입니까?
+NUM,NUM,고양이의 임신 기간은 얼마입니까?
+NUM,NUM,항법 거리는 얼마나됩니까?
+HUM,HUM,1859 년 Harper &#39;s Ferry에서 습격을 주도했던 노예 폐지 론자는 누구였습니까?
+DESC,DESC,목표 심박수는 무엇을 의미합니까?
+ENTY,ENTY,우주에 처음으로 들어간 위성은 무엇 이었습니까?
+DESC,DESC,차압이란 무엇입니까?
+ENTY,DESC,켄터키 인근의 주요 단층 선은 무엇입니까?
+LOC,LOC,네덜란드 터널은 어디에 있습니까?
+HUM,HUM,누가 찬송가 &#39;놀라운 은혜&#39;를 썼는가?
+HUM,LOC,Willie Davis는 어떤 위치에서 야구를 했습니까?
+DESC,DESC,혈소판이란 무엇입니까?
+DESC,DESC,퇴직금이란 무엇입니까?
+ENTY,ENTY,로이 로저의 개 이름이 뭐니?
+LOC,LOC,National Archives는 어디에 있습니까?
+ENTY,DESC,베이비 칠면조 란 무엇입니까?
+DESC,DESC,소아마비 란 무엇입니까?
+ENTY,ENTY,인체에서 가장 긴 뼈는 무엇입니까?
+HUM,HUM,독일 철학가는 누구입니까?
+ENTY,ENTY,크리스토퍼 콜럼버스의 3 척은 무엇입니까?
+DESC,DESC,피 베카 카파는 무엇을 의미합니까?
+DESC,DESC,니코틴이란 무엇입니까?
+ENTY,ENTY,비타민 B1의 또 다른 이름은 무엇입니까?
+HUM,HUM,누가 라듐을 발견 했습니까?
+DESC,DESC,흑점은 무엇입니까?
+NUM,NUM,알제리는 언제 식민지였습니까?
+HUM,NUM,야구 팀이 처음으로 유니폼에 번호를 매기는 것은 무엇입니까?
+LOC,LOC,이집트는 어떤 대륙입니까?
+LOC,DESC,몽골의 수도는 무엇입니까?
+DESC,DESC,나노 기술이란 무엇입니까?
+LOC,ENTY,1700 년대 후반에 영국의 죄수들은 어떤 식민지를 채우기 위해 사용 되었습니까?
+LOC,LOC,48 개 주 (州)의 지리적 중심은 어떤 상태입니까?
+DESC,DESC,둔각이란 무엇입니까?
+DESC,DESC,고분자 란 무엇입니까?
+NUM,NUM,카리브 해의 허리케인 시즌은 언제입니까?
+LOC,LOC,화산 Mauna Loa는 어디에 있습니까?
+ENTY,ENTY,오로라를위한 또 다른 천문 용어는 무엇입니까?
+LOC,LOC,스페인은 어떤 반도입니까?
+NUM,NUM,린든 B. 존슨은 언제 태어 났습니까?
+DESC,DESC,아세트 아미노펜이란 무엇입니까?
+LOC,NUM,1 년에 어느 정도의 비가 내리는가?
+HUM,HUM,누가 미국 적십자사를 설립 했습니까?
+NUM,NUM,밀워키 브레이브스는 몇 년 동안 애틀랜타 브레이브스가 되었습니까?
+NUM,NUM,얼마나 빨리 알코올을 흡수합니까?
+NUM,NUM,여름 최고점은 언제입니까?
+DESC,DESC,초신성이란 무엇입니까?
+LOC,LOC,쇼니 국립 산림은 어디 있습니까?
+LOC,ENTY,미국의 주된 모토는``라이브 프리 또는 다이 &#39;&#39;입니까?
+LOC,LOC,Lourve는 어디에 있습니까?
+NUM,NUM,첫 번째 스탬프는 언제 발행 되었습니까?
+ENTY,ENTY,오렌지를 만들기 위해 어떤 기본 색상을 혼합합니까?
+NUM,NUM,명왕성은 태양으로부터 얼마나 멀리 떨어져 있습니까?
+LOC,ENTY,어떤 카나리아 제도의 물이 있습니까?
+DESC,DESC,신경 병증이란 무엇입니까?
+LOC,LOC,유프라테스 강은 어디 있습니까?
+DESC,DESC,암호 란 무엇입니까?
+ENTY,DESC,천연 가스 란 무엇입니까?
+HUM,HUM,캐나다 총리는 누구입니까?
+HUM,HUM,프랑스 통치자가 워털루 전투에서 패배 했나?
+DESC,DESC,백혈병이란 무엇입니까?
+LOC,LOC,하워드 휴즈는 어디에서 죽었습니까?
+ENTY,ENTY,6 월의 탄생석은 무엇입니까?
+ENTY,ENTY,미네소타의 판매 세가 무엇입니까?
+NUM,NUM,지구에서 태양까지의 거리는 몇 마일입니까?
+NUM,NUM,닭의 평균 수명은 얼마입니까?
+NUM,NUM,최초의 월마트 매장은 언제 오픈 되었습니까?
+DESC,DESC,상대 습도 란 무엇입니까?
+LOC,LOC,어떤 도시에 우편 번호가 35824입니까?
+ENTY,ENTY,알제리에서는 어떤 통화가 사용됩니까?
+HUM,HUM,훌라후프를 발명 한 사람은 누구입니까?
+ENTY,ENTY,1957 년에 가장 인기있는 장난감은 무엇 이었습니까?
+ENTY,DESC,Pastrami 란 무엇입니까?
+ENTY,ENTY,소련이 1957 년에 우주로 보냈던 위성의 이름은 무엇입니까?
+LOC,HUM,어떤 도시의 신문을 &quot;The Enquirer&quot;라고 부릅니까?
+HUM,HUM,누가 쉰들끼리 발명 한거야?
+ENTY,ENTY,백본을 호출하지 않은 동물은 무엇입니까?
+NUM,DESC,구리의 녹는 점은 무엇입니까?
+LOC,LOC,화산 올림푸스 몬스터는 어디에 위치해 있습니까?
+HUM,HUM,미국 제 23 대 대통령은 누구였습니까?
+NUM,NUM,평균 체온은 얼마입니까?
+DESC,DESC,세동 제거기는 무엇을합니까?
+DESC,DESC,산성비의 효과는 무엇입니까?
+NUM,HUM,어떤 해에 미국이 초안을 폐지 했습니까?
+NUM,NUM,빛의 속도는 얼마나 빠릅니까?
+LOC,LOC,몬트리올은 어떤 지방입니까?
+LOC,LOC,뉴욕시의 구조는 쌍둥이 빌딩으로도 알려져 있습니다.
+DESC,DESC,곰팡이 란 무엇입니까?
+ENTY,ENTY,네덜란드에서 가장 자주 사용되는 언어는 무엇입니까?
+DESC,DESC,염화 나트륨이란 무엇입니까?
+ENTY,DESC,도미노의 명소는 무엇입니까?
+NUM,NUM,1 톤에 몇 파운드입니까?
+DESC,DESC,인플루엔자 란 무엇입니까?
+DESC,DESC,오존 붕괴 란 무엇입니까?
+NUM,NUM,모나리자는 몇 년이나 그린거야?
+DESC,DESC,&quot;Shiva에 앉아있는 것&quot;은 무슨 뜻입니까?
+ENTY,NUM,스페인 마드리드의 전기 출력은 얼마입니까?
+LOC,LOC,북미의 어느 산맥이 메인에서 조지아까지 뻗어 있습니까?
+ENTY,ENTY,플라스틱으로 만든 것은 무엇입니까?
+NUM,NUM,나이지리아의 인구는 얼마입니까?
+DESC,DESC,비장은 무엇을합니까?
+LOC,LOC,그랜드 캐년은 어디입니까?
+HUM,HUM,누가 전화를 발명 했습니까?
+NUM,NUM,미국은 몇 년 동안 알래스카를 구입 했습니까?
+HUM,HUM,아일랜드 지도자의 이름은 무엇입니까?
+DESC,DESC,페닐알라닌이란 무엇입니까?
+NUM,NUM,입방 피트에 몇 갤런의 물이 있습니까?
+ENTY,LOC,입법부의 두 집은 무엇입니까?
+DESC,DESC,수중 음파 탐지기 란 무엇입니까?
+LOC,LOC,폴란드에서는 대부분의 사람들이 어디에서 살고 있습니까?
+DESC,DESC,인은 무엇입니까?
+LOC,LOC,평온의 바다의 위치는 무엇입니까?
+NUM,NUM,소리가 얼마나 빠릅니까?
+LOC,NUM,프랑스 지방에서는 코냑이 생산됩니까?
+DESC,DESC,발렌타인 데이 란 무엇입니까?
+DESC,DESC,회색 머리카락을 만드는 원인은 무엇입니까?
+DESC,DESC,고혈압이란 무엇입니까?
+DESC,DESC,대역폭이란 무엇입니까?
+LOC,HUM,미국에서 가장 긴 현수교는 무엇입니까?
+DESC,DESC,기생충이란 무엇입니까?
+DESC,DESC,주택 담보는 무엇입니까?
+DESC,DESC,기상 학자는 무엇을합니까?
+ENTY,DESC,법적으로 장님이되는 기준은 무엇입니까?
+HUM,HUM,세상에서 가장 키가 큰 사람은 누구입니까?
+LOC,DESC,쌍둥이 도시 란 무엇입니까?
+ENTY,ENTY,Edward Binney와 Howard Smith는 1903 년에 무엇을 발명 했습니까?
+ENTY,DESC,자유의 여신상은 무엇입니까?
+DESC,DESC,필라테스 란 무엇입니까?
+LOC,LOC,어떤 행성이 &quot;붉은&quot;행성으로 알려져 있습니까?
+NUM,DESC,나일강의 깊이는 무엇입니까?
+ENTY,DESC,화려한 한국 전통 드레스 란 무엇입니까?
+DESC,DESC,마디 그라는 무엇입니까?
+NUM,ENTY,멕시코 페소는 미국 달러로 무엇을 가치가 있습니까?
+HUM,HUM,브루클린 다저스에서 첫 아프리카 계 미국인은 누구였습니까?
+HUM,HUM,캐나다 최초의 총리는 누구였습니까?
+NUM,NUM,미국 해군에 몇 명의 제독이 있습니까?
+ENTY,ENTY,글렌 밀러는 어떤 악기를 연주 했습니까?
+NUM,NUM,그녀가 죽었을 때 Joan of Arc는 몇 살 이었습니까?
+DESC,DESC,2 주라는 단어는 무슨 뜻입니까?
+DESC,DESC,다이네 틱스 란 무엇입니까?
+LOC,LOC,에티오피아의 수도는 무엇입니까?
+NUM,NUM,코끼리가 임신 한 지 얼마나됩니까?
+DESC,DESC,재니스 조플린이 어떻게 죽었나요?
+ENTY,ENTY,아이슬란드의 주요 언어는 무엇입니까?
+DESC,DESC,AM 라디오 방송국과 FM 라디오 방송국의 차이점은 무엇입니까?
+DESC,DESC,골다공증이란 무엇입니까?
+HUM,HUM,미국 최초의 여성 총재는 누구였습니까?
+DESC,DESC,peyote 무엇입니까?
+DESC,ENTY,식도는 무엇을 위해 사용됩니까?
+DESC,DESC,점도 란 무엇입니까?
+NUM,NUM,오클라호마 주 (State)는 몇 년째 해졌습니까?
+ABBR,DESC,Texas의 약자는 무엇입니까?
+ENTY,DESC,거울은 무엇으로 만들었습니까?
+LOC,LOC,시체가 착용 한 mortarboard는 어디 있습니까?
+HUM,HUM,JFK의 아내 이름은 무엇입니까?
+ABBR,DESC,IV가 무엇을 의미합니까?
+DESC,DESC,덩널은 무엇입니까?
+LOC,LOC,히틀러는 어디에 묻혔습니까?
+DESC,DESC,제산제는 무엇입니까?
+DESC,DESC,폐 섬유증이란 무엇입니까?
+DESC,DESC,Quaaludes는 무엇입니까?
+DESC,DESC,나프록센이란 무엇인가?
+DESC,DESC,연쇄상 구균 인후 란 무엇입니까?
+LOC,LOC,미국에서 가장 큰 도시는 무엇입니까?
+ENTY,DESC,구제역이란 무엇입니까?
+NUM,NUM,달러 지폐의 예상 수명은 얼마입니까?
+ENTY,ENTY,전문지도 서랍은 무엇이라고 부릅니까?
+DESC,DESC,원주민이란 무엇입니까?
+DESC,DESC,하이브리드 화 란 무엇입니까?
+ENTY,ENTY,인디고는 어떤 색입니까?
+NUM,NUM,이탈리아에서 자동차를 대여하려면 몇 살이되어야합니까?
+ENTY,DESC,기압계는 무엇을 측정합니까?
+ENTY,ENTY,기린의 혀는 어떤 색입니까?
+ABBR,DESC,USPS는 무엇을 의미합니까?
+NUM,NUM,NFL은 몇 년 동안 파업을 시작 했습니까?
+DESC,DESC,태양풍이란 무엇입니까?
+NUM,NUM,닐 암스트롱은 달에 언제 도착 했습니까?
+NUM,NUM,히로시마는 언제 폭격을 받았습니까?
+LOC,LOC,사바나 강은 어디 있습니까?
+HUM,HUM,베트남 전쟁에서 처음으로 살해 된 여성은 누구였습니까?
+LOC,ENTY,어떤 행성이 모든 행성의 가장 강한 자기장을 가지고 있습니까?
+HUM,HUM,알래스카 주지사는 누구입니까?
+NUM,NUM,무솔리니는 몇 년 동안 이탈리아에서 권력을 장악 했습니까?
+LOC,DESC,페르시아의 수도는 무엇입니까?
+LOC,LOC,에펠 탑은 어디 있습니까?
+NUM,NUM,낙지는 몇 마리입니까?
+DESC,DESC,폐렴이란 무엇입니까?
+LOC,LOC,미국에서 가장 깊은 호수는 무엇입니까?
+DESC,DESC,연료 전지 란 무엇입니까?
+HUM,HUM,TV에 처음으로 등장한 미국 대통령은 누구였습니까?
+LOC,LOC,리틀 리그 박물관은 어디 있습니까?
+ENTY,ENTY,쌍둥이의 두 종류는 무엇입니까?
+LOC,ENTY,가장 밝은 별은 무엇입니까?
+DESC,DESC,당뇨병이란 무엇입니까?
+NUM,NUM,언제 케네디 대통령이 총에 맞았습니까?
+ABBR,DESC,TMJ 란 무엇입니까?
+ENTY,ENTY,야크 우유는 어떤 색입니까?
+NUM,NUM,드와이트 D. 아이젠 하워가 태어난 날짜는 언제입니까?
+ABBR,ABBR,기술적 인 용어 ISDN은 무엇을 의미합니까?
+DESC,DESC,왜 태양은 노랗니까?
+NUM,NUM,달러와 파운드 사이의 전환율은 얼마입니까?
+NUM,NUM,Abraham Lincoln은 언제 태어 났습니까?
+DESC,DESC,은하수 란 무엇인가?
+DESC,DESC,곰팡이 란 무엇입니까?
+NUM,NUM,모짜르트가 몇 년이나 태어 났습니까?
+ENTY,ENTY,개구리라고 불리는 그룹은 무엇입니까?
+ENTY,HUM,윌리엄 펜의 이름이 뭐예요?
+NUM,DESC,금의 녹는 점은 무엇입니까?
+LOC,DESC,백악관의 주소는 무엇입니까?
+DESC,DESC,세 몰리나 란 무엇입니까?
+ENTY,ENTY,Melba 소스는 어떤 과일입니까?
+DESC,DESC,큰곰 자리 란 무엇입니까?
+NUM,NUM,인체의 수분 함유율은 얼마입니까?
+NUM,NUM,물의 무게는 얼마입니까?
+ENTY,ENTY,린든 존슨 대통령의 개혁 프로그램은 무엇이라고 불렀습니까?
+NUM,NUM,온타리오 주 윈저의 살인 률은 얼마입니까?
+HUM,HUM,비 연속적인 2 가지 용어를 제공하는 유일한 사장은 누구입니까?
+NUM,NUM,호주의 인구는 얼마입니까?
+HUM,HUM,시스 티나 예배당의 천장을 누가 그린거야?
+ENTY,ENTY,각성제의 이름을 지정하십시오.
+DESC,DESC,화산이 기후에 미치는 영향은 무엇입니까?
+NUM,NUM,앤디 그리피스 쇼가 몇 년이나 시작 되었습니까?
+DESC,DESC,산성비는 무엇입니까?
+NUM,NUM,멕시코의 독립 기념일은 언제입니까?
+LOC,LOC,호수 Champlain의 위치는 무엇입니까?
+ENTY,ENTY,일리노이주의 꽃은 무엇입니까?
+ENTY,ENTY,메릴랜드주의 새는 무엇입니까?
+DESC,DESC,수은은 무엇입니까?
+HUM,HUM,누가 &#39;신의 희극&#39;을 썼는가?
+NUM,NUM,빛의 속도는 얼마입니까?
+NUM,NUM,축구장 너비는 얼마입니까?
+DESC,DESC,왜 테니스에서 사랑이라고하는 0 점이 있습니까?
+ENTY,ENTY,오츠의 마법사 인 토토는 어떤 종류의 개입니까?
+DESC,DESC,갑상선이란 무엇입니까?
+DESC,DESC,ciao는 무엇을 의미합니까?
+ENTY,ENTY,푸른 혈액을 심장에서 폐로 옮기는 유일한 동맥은 무엇입니까?
+NUM,NUM,올드 페이스 (Old Faithful)는 옐로 스톤 국립 공원에서 얼마나 자주 분출합니까?
+DESC,DESC,아세트산이란 무엇입니까?
+NUM,NUM,"세인트루이스, MO의 고도는 얼마입니까?"
+ENTY,ENTY,리트머스 종이가 강산과 접촉 할 때 어떤 색을 띠게합니까?
+ENTY,ENTY,독일 국기의 색상은 무엇입니까?
+DESC,DESC,무랑 루즈 (Moulin Rouge) 란 무엇입니까?
+LOC,LOC,흑해에있는 소련 항구는 무엇입니까?
+NUM,NUM,은의 원자량은 얼마입니까?
+ENTY,NUM,브라질에서는 어떤 통화를 사용합니까?
+DESC,DESC,병원체는 무엇입니까?
+DESC,DESC,광우병이란 무엇입니까?
+ENTY,ENTY,아연이 많은 식품의 이름을 말하십시오.
+NUM,NUM,노스 캐롤라이나는 언제 노조에 가입 했습니까?
+LOC,LOC,사과 달팽이는 어디에서 살고 있습니까?
+DESC,DESC,윤리 란 무엇입니까?
+ABBR,DESC,CPR은 무엇을 의미합니까?
+DESC,DESC,연금이란 무엇입니까?
+HUM,HUM,존 F. 케네디를 누가 죽였습니까?
+HUM,HUM,미국 최초의 부통령은 누구였습니까?
+ENTY,ENTY,어떤 탄생석은 청록색입니까?
+HUM,HUM,그의 첫 취임식에 자동차로 탈 미국 대통령은 누구였습니까?
+NUM,NUM,가장 어린 미국 대통령은 몇 살입니까?
+NUM,NUM,율리시스 그랜트 (Ulysses S. Grant)는 언제 태어 났습니까?
+DESC,DESC,근이영양증이란 무엇입니까?
+HUM,HUM,노이 슈반 슈타인성에 누가 살았습니까?
+DESC,DESC,프로필렌 글리콜은 무엇입니까?
+DESC,ENTY,공황 장애 란 무엇입니까?
+HUM,HUM,누가 폴라로이드 카메라를 발명 했습니까?
+DESC,DESC,발암 물질이란 무엇인가?
+ENTY,DESC,아기 사자는 무엇입니까?
+NUM,NUM,세계 인구는 얼마입니까?
+DESC,DESC,친척이란 무엇입니까?
+DESC,DESC,다이 캐스팅이란 무엇입니까?
+DESC,DESC,근시 란 무엇입니까?
+NUM,NUM,뉴욕의 판매 세율은 얼마입니까?
+NUM,NUM,개발 도상국은 세계 인구의 몇 퍼센트를 구성합니까?
+LOC,LOC,세계에서 네 번째로 높은 산은 무엇입니까?
+HUM,HUM,셰익스피어의 닉네임은 무엇입니까?
+ENTY,DESC,가장 무거운 자연 발생 요소는 무엇입니까?
+NUM,NUM,아버지의 날은 언제입니까?
+ABBR,DESC,NASA의 약자는 무엇을 의미합니까?
+NUM,NUM,컬럼비아 강은 몇 마일에 걸쳐 있습니까?
+LOC,LOC,어떤 도시의 신문을``별 &#39;&#39;이라고 부릅니까?
+DESC,DESC,이산화탄소는 무엇입니까?
+LOC,LOC,Mason / Dixon 라인은 어디에 있습니까?
+NUM,NUM,보스턴 티 파티가 언제 있었습니까?
+DESC,DESC,신진 대사 란 무엇인가?
+HUM,HUM,어떤 미국 대통령이``웃음 &#39;&#39;에 출연 했습니까?
+ENTY,DESC,담배는 무엇입니까?
+LOC,DESC,짐바브웨의 수도는 무엇입니까?
+ABBR,DESC,NASA는 무엇을지지합니까?
+ENTY,ENTY,미시간 주립 꽃은 무엇입니까?
+DESC,DESC,반도체 란 무엇입니까?
+DESC,DESC,원자력이란 무엇인가?
+DESC,DESC,쓰나미 란 무엇인가?
+HUM,HUM,무장 세력위원회의 텍사스 주 출신 하원 의원은 누구입니까?
+HUM,HUM,1913 년에 누가 대통령 이었습니까?
+NUM,NUM,첫 번째 신장 이식 수술은 언제 시작 했습니까?
+LOC,LOC,캐나다의 두 영역은 무엇입니까?
+ENTY,ENTY,린드버그가 대서양을 가로 질러 날아간 비행기의 이름은 무엇입니까?
+DESC,DESC,대량 학살이란 무엇입니까?
+LOC,LOC,아르헨티나는 어떤 대륙입니까?
+ENTY,ENTY,8 세기 말에 바이킹에 의해 급습 된 수도원은 무엇입니까?
+DESC,DESC,지진이란 무엇입니까?
+LOC,LOC,가장 높은 롤러 코스터는 어디에 있습니까?
+DESC,DESC,효소 란 무엇인가?
+HUM,HUM,누가 산소를 발견 했습니까?
+DESC,DESC,위험과 매쉬는 무엇입니까?
+ENTY,ENTY,루이지애나 주립 대학의 호랑이 이름은 무엇입니까?
+LOC,LOC,영국 왕관 보석은 어디에 보관되어 있습니까?
+HUM,HUM,북극에 처음 도착한 사람은 누구입니까?
+DESC,DESC,궤양이란 무엇인가?
+DESC,DESC,현기증이란 무엇입니까?
+DESC,DESC,폐활량계 검사 란 무엇입니까?
+NUM,NUM,여름 공식 첫날은 언제입니까?
+ABBR,ABBR,약자 SOS는 무엇을 의미합니까?
+ENTY,ENTY,영국에서 가장 작은 새는 무엇입니까?
+HUM,HUM,사소한 추구를 발명 한 사람은 누구입니까?
+ENTY,ENTY,대류권에 어떤 가스가 있습니까?
+LOC,LOC,어느 국가에서 수질 오염이 가장 많이 발생합니까?
+ENTY,DESC,코끼리의 학명은 무엇입니까?
+HUM,HUM,영화``집시 &#39;에서 그녀의 역할로 유명한 여배우는 누구인가?
+ENTY,ENTY,비벌리 힐 빌리 (Beverly Hillbillies)가 사냥개를 사육 한 유형은 무엇입니까?
+LOC,LOC,지구상에서 가장 비좁은 장소는 무엇입니까?
+HUM,HUM,최초의 흑인이 문학 작품에서 노벨 문학상을 수상한 사람은 누구입니까?
+NUM,NUM,성 패트릭의 날은 언제입니까?
+ENTY,ENTY,FDR의 개 이름은 무엇입니까?
+ENTY,ENTY,색상을 분홍색으로 만들기 위해 어떤 색상을 혼합해야합니까?
+ENTY,ENTY,일본에서 가장 인기있는 스포츠는 무엇입니까?
+ENTY,ENTY,베이킹 소다의 활성 성분은 무엇입니까?
+NUM,NUM,Thomas Jefferson은 언제 태어 났습니까?
+NUM,NUM,냉장고는 얼마나 차갑습니까?
+NUM,NUM,전화가 언제 발명 되었습니까?
+ENTY,ENTY,가장 일반적인 눈 색깔은 무엇입니까?
+LOC,LOC,미국 최초의 골프 코스는 어디에 있습니까?
+DESC,DESC,정신 분열증이란 무엇입니까?
+DESC,DESC,안지오텐신이란 무엇입니까?
+HUM,DESC,Jesse Jackson은 무엇을 조직 했습니까?
+ENTY,ENTY,뉴욕주의 조류는 무엇입니까?
+LOC,LOC,유타에있는 국립 공원은 무엇입니까?
+NUM,NUM,Susan B. Anthony의 생일은 무엇입니까?
+LOC,LOC,Catskill Mountains를 어떤 주에서 찾으십니까?
+ENTY,ENTY,앞뒤로 똑같은 단어가 뭐라고 부릅니까?
+DESC,DESC,소아과 의사는 무엇입니까?
+HUM,LOC,Arkansas의 Bentonville에 본사가있는 체인점은 무엇입니까?
+DESC,DESC,태양 전지 란 무엇입니까?
+DESC,DESC,복리이자는 무엇입니까?
+DESC,DESC,케이 퍼는 무엇입니까?
+DESC,DESC,항원은 무엇입니까?
+ENTY,ENTY,룩셈부르크는 어떤 통화를 사용합니까?
+NUM,NUM,베네수엘라의 인구는 얼마입니까?
+ENTY,ENTY,어떤 유형의 폴리머가 방탄 조끼에 사용됩니까?
+ENTY,NUM,아르헨티나에서는 어떤 통화를 사용합니까?
+DESC,DESC,온도계 란 무엇입니까?
+LOC,LOC,가장 큰 인구를 가진 캐나다 도시는 무엇입니까?
+ENTY,ENTY,귀뚜라미는 무슨 색깔입니까?
+LOC,LOC,어느 나라가 뉴욕에게 자유의 여신상을 주 었는가?
+ENTY,HUM,우주로 보내진 최초의 미국 위성의 이름은 무엇 이었습니까?
+ENTY,NUM,귀중한 돌은 순수한 탄소의 형태입니까?
+ENTY,ENTY,어떤 종류의 가스가 형광등에 있습니까?
+DESC,DESC,류마티스 관절염은 무엇입니까?
+LOC,LOC,"Rowe, Italy에서 어떤 강이 흐르고 있습니까?"
+DESC,DESC,뇌성 마비 란 무엇입니까?
+LOC,LOC,어떤 도시가 &quot;서부로가는 관문&quot;으로 알려져 있습니까?
+NUM,NUM,얼마나 멀리 달입니까?
+ENTY,DESC,천연 가스의 원천은 무엇입니까?
+ENTY,HUM,미국의 우주 비행사 인 앨런 셰퍼드 (Alan Shepard)는 우주선을 타고 1961 년 역사적인 비행을 시작 했습니까?
+DESC,DESC,펙틴이란 무엇입니까?
+DESC,DESC,생물 다양성이란 무엇입니까?
+ENTY,DESC,벽지를 제거하는 가장 쉬운 방법은 무엇입니까?
+NUM,NUM,타이탄은 몇 년 동안 여행을 시작 했습니까?
+NUM,NUM,물이 사과는 얼마입니까?
+HUM,HUM,미국 22 대 대통령은 누구였습니까?
+ENTY,ENTY,그들이 잠비아에서 사용하는 돈은 무엇입니까?
+NUM,NUM,1 마일에 몇 피트입니까?
+ENTY,ENTY,10 월의 탄생석은 무엇입니까?
+DESC,DESC,대장균이란 무엇입니까?
